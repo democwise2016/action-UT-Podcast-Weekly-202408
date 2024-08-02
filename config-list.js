@@ -35,7 +35,6 @@ let feedList = [
     title: '波特王好帥 粉紅特報',
     feedID: 'Realpotterking-Pinker',
     homepageURL: 'https://www.youtube.com/channel/UCsBP1dmKYfcorJ17kfOUTvg',
-    // thumbnailBorderColor: true,
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
       (item) => { return ((item.title.indexOf('粉紅特報') >-1)) }
@@ -45,7 +44,6 @@ let feedList = [
     title: '小鄭在日本',
     feedID: 'realxiaozheng',
     homepageURL: 'https://www.youtube.com/channel/UCn2WdaugAANMkiXfUcCNdtA',
-    // thumbnailBorderColor: true,
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min
     ],
@@ -54,7 +52,6 @@ let feedList = [
     title: '阿先說故事',
     feedID: 'AhFirst666',
     homepageURL: 'https://www.youtube.com/channel/UCz0V_SLhfJYhRQbVtyjNAOw',
-    // thumbnailBorderColor: true,
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min
     ],
@@ -81,9 +78,16 @@ let feedList = [
     title: '狐狸牧場 foxranch',
     feedID: 'foxranch',
     homepageURL: 'https://www.youtube.com/channel/UCV4mpMSInbFxAIAGFk8e_JQ',
-    // thumbnailBorderColor: true,
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
+    ],
+  },
+  {
+    title: '赤狐與毛',
+    feedID: 'Fox_Wing',
+    homepageURL: 'https://www.youtube.com/channel/UCuPeD_7PYCBf9IBb__1m5Ng',
+    itemFilters: [
+      ItemFiltersPreset.between10minTo60Min,
     ],
   },
   {
@@ -96,7 +100,6 @@ let feedList = [
     title: 'A Jie手遊快篩',
     feedID: 'AJieLive-mobile',
     homepageURL: 'https://www.youtube.com/channel/UCYKhjw4BT72a1DYDzbXeb_g',
-    // thumbnailBorderColor: true,
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
       (item) => { return ((item.title.indexOf('【手遊快篩】') >-1)) }
