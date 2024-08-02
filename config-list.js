@@ -1,18 +1,18 @@
 const ItemFiltersPreset = require('./app/config/ItemFiltersPreset.js')
 
 let feedList = [
-  {
-    title: '玩家機密 每週新聞',
-    feedID: 'GamerSecret-News',
-    homepageURL: 'https://www.youtube.com/channel/UCmtmIF-u0ojej0y9i9STuIw',
-    itemFilters: [
-      ItemFiltersPreset.between3minTo30Min,
-      (item) => { return ((item.title.indexOf('【每週新聞】') >-1)) }
-    ],
-    options: {
-      maxItems: 3
-    }
-  },
+  // {
+  //   title: '玩家機密 每週新聞',
+  //   feedID: 'GamerSecret-News',
+  //   homepageURL: 'https://www.youtube.com/channel/UCmtmIF-u0ojej0y9i9STuIw',
+  //   itemFilters: [
+  //     ItemFiltersPreset.between3minTo30Min,
+  //     (item) => { return ((item.title.indexOf('【每週新聞】') >-1)) }
+  //   ],
+  //   options: {
+  //     maxItems: 3
+  //   }
+  // },
   {
     title: 'cheap講歷史',
     feedID: 'cheapaoe',
@@ -90,33 +90,33 @@ let feedList = [
       ItemFiltersPreset.between10minTo60Min,
     ],
   },
-  {
-    title: '35線上賞屋',
-    feedID: '35visitchannel',
-    homepageURL: 'https://www.youtube.com/channel/UCnWB4yjKnm6AeW-pj4E3dQw',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: 'A Jie手遊快篩',
-    feedID: 'AJieLive-mobile',
-    homepageURL: 'https://www.youtube.com/channel/UCYKhjw4BT72a1DYDzbXeb_g',
-    itemFilters: [
-      ItemFiltersPreset.between3minTo30Min,
-      (item) => { return ((item.title.indexOf('【手遊快篩】') >-1)) }
-    ],
-  },
-  {
-    title: 'Dio Chan聊遊戲',
-    feedID: 'diochan1055',
-    homepageURL: 'https://www.youtube.com/channel/UCAQmUESq4GxO1b_iBCrYlTA',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '嚼豆 聊遊戲王',
-    feedID: 'DOW2233',
-    homepageURL: 'https://www.youtube.com/channel/UCerJk0-d22M7MFy8opOuyjA',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
+  // {
+  //   title: '35線上賞屋',
+  //   feedID: '35visitchannel',
+  //   homepageURL: 'https://www.youtube.com/channel/UCnWB4yjKnm6AeW-pj4E3dQw',
+  //   itemFilters: ItemFiltersPreset.between3minTo30Min,
+  // },
+  // {
+  //   title: 'A Jie手遊快篩',
+  //   feedID: 'AJieLive-mobile',
+  //   homepageURL: 'https://www.youtube.com/channel/UCYKhjw4BT72a1DYDzbXeb_g',
+  //   itemFilters: [
+  //     ItemFiltersPreset.between3minTo30Min,
+  //     (item) => { return ((item.title.indexOf('【手遊快篩】') >-1)) }
+  //   ],
+  // },
+  // {
+  //   title: 'Dio Chan聊遊戲',
+  //   feedID: 'diochan1055',
+  //   homepageURL: 'https://www.youtube.com/channel/UCAQmUESq4GxO1b_iBCrYlTA',
+  //   itemFilters: ItemFiltersPreset.between3minTo30Min,
+  // },
+  // {
+  //   title: '嚼豆 聊遊戲王',
+  //   feedID: 'DOW2233',
+  //   homepageURL: 'https://www.youtube.com/channel/UCerJk0-d22M7MFy8opOuyjA',
+  //   itemFilters: ItemFiltersPreset.between3minTo30Min,
+  // },
 ]
 
 // ---------------------------------------
