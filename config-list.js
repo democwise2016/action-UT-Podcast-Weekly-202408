@@ -104,6 +104,12 @@ let feedList = [
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   {
+    title: 'Emmy追劇時間 看財經',
+    feedID: 'emmytw',
+    homepageURL: 'https://www.youtube.com/channel/UCUkwvRrpvWkocNdk9qIpRSw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
     title: '好味營養師品瑄',
     feedID: 'dietitian_pink',
     homepageURL: 'https://www.youtube.com/channel/UCLwFOT4tHGaK9kqXXExhPFQ',
