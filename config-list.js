@@ -5,7 +5,6 @@ let feedList = [
     title: '玩家機密 每週新聞',
     feedID: 'GamerSecret-News',
     homepageURL: 'https://www.youtube.com/channel/UCmtmIF-u0ojej0y9i9STuIw',
-    thumbnailBorderColor: true,
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
       (item) => { return ((item.title.indexOf('【每週新聞】') >-1)) }
