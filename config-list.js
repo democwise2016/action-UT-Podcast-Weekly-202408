@@ -90,6 +90,14 @@ let feedList = [
       ItemFiltersPreset.between10minTo60Min,
     ],
   },
+  {
+    title: '真觀點 談政治',
+    feedID: 'zhenguandian',
+    homepageURL: 'https://www.youtube.com/channel/UCAwVpzgGI9sEu4O4ZlB5ZWQ',
+    itemFilters: [
+      ItemFiltersPreset.between10minTo60Min,
+    ],
+  },
   // {
   //   title: '35線上賞屋',
   //   feedID: '35visitchannel',
