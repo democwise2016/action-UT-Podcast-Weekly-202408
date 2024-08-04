@@ -125,6 +125,15 @@ let feedList = [
   //   homepageURL: 'https://www.youtube.com/channel/UCerJk0-d22M7MFy8opOuyjA',
   //   itemFilters: ItemFiltersPreset.between3minTo30Min,
   // },
+  {
+    title: 'Sky game 電玩買蝦款',
+    feedID: 'Sky_game-weekly',
+    homepageURL: 'https://www.youtube.com/channel/UC4D6eg7KWWiXNJVTXtuyZfA',
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+      (item) => { return ((item.title.indexOf('電玩買蝦款') >-1)) }
+    ],
+  },
 ]
 
 // ---------------------------------------
