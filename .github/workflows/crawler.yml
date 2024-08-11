@@ -85,9 +85,9 @@ jobs:
       #   run: |
       #     rm -f ./cache/node-cache-sqlite_*object*.sqlite
 
-      # - name: Clean output gitignore
-      #   run: |
-      #     rm -f ./output/.gitignore
+      - name: Clean output gitignore
+        run: |
+          rm -f ./output/.gitignore
 
       # - name: Clean output "Invalid date-"
       #   run: |
