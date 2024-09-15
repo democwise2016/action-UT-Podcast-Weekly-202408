@@ -134,6 +134,15 @@ let feedList = [
       (item) => { return ((item.title.indexOf('電玩買蝦款') >-1)) }
     ],
   },
+  {
+    title: '苗博雅 臺北百科全書精華',
+    feedID: 'miaopoya-taipei-encyclopedia',
+    homepageURL: 'https://www.youtube.com/@miaopoya/videos',
+    itemFilters: [
+      (item) => { return ((item.title.indexOf('臺北百科全書精華') >-1)) },
+      ItemFiltersPreset.between3minTo30Min,
+    ],
+  },
 ]
 
 // ---------------------------------------
