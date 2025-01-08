@@ -143,6 +143,14 @@ let feedList = [
       ItemFiltersPreset.between3minTo30Min,
     ],
   },
+  {
+    title: 'IT咖啡馆: GitHub軟體介紹',
+    feedID: 'it-coffee-github',
+    homepageURL: 'https://www.youtube.com/@it-coffee',
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+    ],
+  },
 ]
 
 // ---------------------------------------
