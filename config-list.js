@@ -17,7 +17,9 @@ let feedList = [
     title: 'cheap講歷史',
     feedID: 'cheapaoe',
     homepageURL: 'https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+    ]
   },
   // {
   //   title: '黃國昌直播',
@@ -60,7 +62,9 @@ let feedList = [
     title: 'PanSci 泛科學',
     feedID: 'PanScitw',
     homepageURL: 'https://www.youtube.com/channel/UCuHHKbwC0TWjeqxbqdO-N_g',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+    ]
   },
   {
     title: '我是RT',
@@ -72,7 +76,9 @@ let feedList = [
     title: 'Kuma桑',
     feedID: 'kumasan0720',
     homepageURL: 'https://www.youtube.com/channel/UC7S_3Gc5_vIpeFmgPG8DhNQ',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+    ],
   },
   {
     title: '狐狸牧場 foxranch',
