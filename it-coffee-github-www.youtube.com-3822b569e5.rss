@@ -1,0 +1,818 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></title>
+    <link>https://www.youtube.com/@it-coffee</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s900-b50-c-k-c0x0040F99B-no-rj</url>
+      <title>IT咖啡馆: GitHub軟體介紹 [UT]</title>
+      <link>https://www.youtube.com/@it-coffee</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></copyright>
+    <itunes:author><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw</a>LINK<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw</a>LINK<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s900-b50-c-k-c0x0040F99B-no-rj"/>
+<item>
+      <title><![CDATA[2.18]地表最强？Grok3数据超强，但亮点确实不多]]></title>
+      <itunes:title><![CDATA[2.18]地表最强？Grok3数据超强，但亮点确实不多]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=oloNev7kD5I
+马斯克带着他的新模型grok3来了，数据上目前地表最强，但是感觉亮点不足。
+<a href="https://www.youtube.com/watch?v=oloNev7kD5I"><img src="https://img.youtube.com/vi/oloNev7kD5I/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/0.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/1.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/2.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=oloNev7kD5I
+马斯克带着他的新模型grok3来了，数据上目前地表最强，但是感觉亮点不足。
+<a href="https://www.youtube.com/watch?v=oloNev7kD5I"><img src="https://img.youtube.com/vi/oloNev7kD5I/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/0.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/1.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/2.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=oloNev7kD5I
+马斯克带着他的新模型grok3来了，数据上目前地表最强，但是感觉亮点不足。<br />
+<a href="https://www.youtube.com/watch?v=oloNev7kD5I"><img src="https://img.youtube.com/vi/oloNev7kD5I/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/0.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/1.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/2.jpg" />
+<img src="https://img.youtube.com/vi/oloNev7kD5I/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/oloNev7kD5I/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250218-oloNev7kD5I.mp3" type="audio/mpeg" length="186" />
+      <itunes:duration>186</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250218-oloNev7kD5I.mp3</guid>
+      <pubDate>2025-02-18T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[2.15]「Github一周热点61期」更快运行DeepSeek的推理框架、大模型微调工具、AI数据可视化工具、API调试工具和开源图标库]]></title>
+      <itunes:title><![CDATA[2.15]「Github一周热点61期」更快运行DeepSeek的推理框架、大模型微调工具、AI数据可视化工具、API调试工具和开源图标库]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=d7z7bjlSeYc
+1、项目名称：ktransformers - 大模型推理框架
+- GitHub 链接：https://github.com/kvcache-ai/ktransformers
+2、项目名称：unsloth - 大模型微调工具
+- GitHub 链接：https://github.com/unslothai/unsloth
+3、项目名称：data-formulator - AI数据可视化工具
+- GitHub 链接：https://github.com/microsoft/data-formulator
+4、项目名称：hoppscotch - API调试工具
+- GitHub 链接：https://github.com/hoppscotch/hoppscotch
+5、项目名称：lucide -  开源图标库
+- GitHub 链接：https://github.com/lucide-icons/lucide
+<a href="https://www.youtube.com/watch?v=d7z7bjlSeYc"><img src="https://img.youtube.com/vi/d7z7bjlSeYc/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/0.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/1.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/2.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=d7z7bjlSeYc
+1、项目名称：ktransformers - 大模型推理框架
+- GitHub 链接：https://github.com/kvcache-ai/ktransformers
+2、项目名称：unsloth - 大模型微调工具
+- GitHub 链接：https://github.com/unslothai/unsloth
+3、项目名称：data-formulator - AI数据可视化工具
+- GitHub 链接：https://github.com/microsoft/data-formulator
+4、项目名称：hoppscotch - API调试工具
+- GitHub 链接：https://github.com/hoppscotch/hoppscotch
+5、项目名称：lucide -  开源图标库
+- GitHub 链接：https://github.com/lucide-icons/lucide
+<a href="https://www.youtube.com/watch?v=d7z7bjlSeYc"><img src="https://img.youtube.com/vi/d7z7bjlSeYc/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/0.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/1.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/2.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=d7z7bjlSeYc
+1、项目名称：ktransformers - 大模型推理框架
+- GitHub 链接：https://github.com/kvcache-ai/ktransformers
+2、项目名称：unsloth - 大模型微调工具
+- GitHub 链接：https://github.com/unslothai/unsloth
+3、项目名称：data-formulator - AI数据可视化工具
+- GitHub 链接：https://github.com/microsoft/data-formulator
+4、项目名称：hoppscotch - API调试工具
+- GitHub 链接：https://github.com/hoppscotch/hoppscotch
+5、项目名称：lucide -  开源图标库
+- GitHub 链接：https://github.com/lucide-icons/lucide<br />
+<a href="https://www.youtube.com/watch?v=d7z7bjlSeYc"><img src="https://img.youtube.com/vi/d7z7bjlSeYc/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/0.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/1.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/2.jpg" />
+<img src="https://img.youtube.com/vi/d7z7bjlSeYc/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/d7z7bjlSeYc/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250215-d7z7bjlSeYc.mp3" type="audio/mpeg" length="515" />
+      <itunes:duration>515</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250215-d7z7bjlSeYc.mp3</guid>
+      <pubDate>2025-02-15T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[2.14]苹果看上它了？阿里最强视觉模型 Qwen2.5-VL测评解析]]></title>
+      <itunes:title><![CDATA[2.14]苹果看上它了？阿里最强视觉模型 Qwen2.5-VL测评解析]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=4b-z68LHhmU
+最近看到有新闻说，Apple选择阿里云 作为中国地区的AI提供商，而阿里云正好发布了Qwen2.5-VL视觉模型，这会不会是为此而做的铺垫呢？今天来带大家一起解析这个新开源模型，中国不止DeepSeek，Qwen也很不错。
+
+GitHub 链接：https://github.com/QwenLM/Qwen2.5-VL
+<a href="https://www.youtube.com/watch?v=4b-z68LHhmU"><img src="https://img.youtube.com/vi/4b-z68LHhmU/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/0.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/1.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/2.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=4b-z68LHhmU
+最近看到有新闻说，Apple选择阿里云 作为中国地区的AI提供商，而阿里云正好发布了Qwen2.5-VL视觉模型，这会不会是为此而做的铺垫呢？今天来带大家一起解析这个新开源模型，中国不止DeepSeek，Qwen也很不错。
+
+GitHub 链接：https://github.com/QwenLM/Qwen2.5-VL
+<a href="https://www.youtube.com/watch?v=4b-z68LHhmU"><img src="https://img.youtube.com/vi/4b-z68LHhmU/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/0.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/1.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/2.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=4b-z68LHhmU
+最近看到有新闻说，Apple选择阿里云 作为中国地区的AI提供商，而阿里云正好发布了Qwen2.5-VL视觉模型，这会不会是为此而做的铺垫呢？今天来带大家一起解析这个新开源模型，中国不止DeepSeek，Qwen也很不错。
+
+GitHub 链接：https://github.com/QwenLM/Qwen2.5-VL<br />
+<a href="https://www.youtube.com/watch?v=4b-z68LHhmU"><img src="https://img.youtube.com/vi/4b-z68LHhmU/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/0.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/1.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/2.jpg" />
+<img src="https://img.youtube.com/vi/4b-z68LHhmU/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/4b-z68LHhmU/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250214-4b-z68LHhmU.mp3" type="audio/mpeg" length="567" />
+      <itunes:duration>567</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250214-4b-z68LHhmU.mp3</guid>
+      <pubDate>2025-02-14T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[2.8]「Github一周热点60期」端到端的基础模型平台、DeepSeek的多模态模型、Qwen2.5的视觉模型、AI控制浏览器和开源BI工具]]></title>
+      <itunes:title><![CDATA[2.8]「Github一周热点60期」端到端的基础模型平台、DeepSeek的多模态模型、Qwen2.5的视觉模型、AI控制浏览器和开源BI工具]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=tg9RD4yLGG4
+1、项目名称：oumi - 端到端的基础模型平台
+- GitHub 链接：https://github.com/oumi-ai/oumi
+2、项目名称：Janus-Pro - deepseek的多模态模型
+- GitHub 链接：https://github.com/deepseek-ai/Janus
+3、项目名称：Qwen2.5-VL - Qwen2.5的视觉模型
+- GitHub 链接：https://github.com/QwenLM/Qwen2.5-VL
+4、项目名称：browser-use -  AI控制浏览器
+- GitHub 链接：https://github.com/browser-use/browser-use
+5、项目名称：metabase - 开源BI工具
+- GitHub 链接：https://github.com/metabase/metabase
+<a href="https://www.youtube.com/watch?v=tg9RD4yLGG4"><img src="https://img.youtube.com/vi/tg9RD4yLGG4/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/0.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/1.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/2.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=tg9RD4yLGG4
+1、项目名称：oumi - 端到端的基础模型平台
+- GitHub 链接：https://github.com/oumi-ai/oumi
+2、项目名称：Janus-Pro - deepseek的多模态模型
+- GitHub 链接：https://github.com/deepseek-ai/Janus
+3、项目名称：Qwen2.5-VL - Qwen2.5的视觉模型
+- GitHub 链接：https://github.com/QwenLM/Qwen2.5-VL
+4、项目名称：browser-use -  AI控制浏览器
+- GitHub 链接：https://github.com/browser-use/browser-use
+5、项目名称：metabase - 开源BI工具
+- GitHub 链接：https://github.com/metabase/metabase
+<a href="https://www.youtube.com/watch?v=tg9RD4yLGG4"><img src="https://img.youtube.com/vi/tg9RD4yLGG4/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/0.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/1.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/2.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=tg9RD4yLGG4
+1、项目名称：oumi - 端到端的基础模型平台
+- GitHub 链接：https://github.com/oumi-ai/oumi
+2、项目名称：Janus-Pro - deepseek的多模态模型
+- GitHub 链接：https://github.com/deepseek-ai/Janus
+3、项目名称：Qwen2.5-VL - Qwen2.5的视觉模型
+- GitHub 链接：https://github.com/QwenLM/Qwen2.5-VL
+4、项目名称：browser-use -  AI控制浏览器
+- GitHub 链接：https://github.com/browser-use/browser-use
+5、项目名称：metabase - 开源BI工具
+- GitHub 链接：https://github.com/metabase/metabase<br />
+<a href="https://www.youtube.com/watch?v=tg9RD4yLGG4"><img src="https://img.youtube.com/vi/tg9RD4yLGG4/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/0.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/1.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/2.jpg" />
+<img src="https://img.youtube.com/vi/tg9RD4yLGG4/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/tg9RD4yLGG4/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250208-tg9RD4yLGG4.mp3" type="audio/mpeg" length="565" />
+      <itunes:duration>565</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250208-tg9RD4yLGG4.mp3</guid>
+      <pubDate>2025-02-08T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[2.6]使用DeepSeek避免这5个误区，效果超过95%的人]]></title>
+      <itunes:title><![CDATA[2.6]使用DeepSeek避免这5个误区，效果超过95%的人]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=5eWZwe_yp3c
+整理下新手在使用DeepSeek时经常遇到的误区，让你的使用效果超过95%的人。
+<a href="https://www.youtube.com/watch?v=5eWZwe_yp3c"><img src="https://img.youtube.com/vi/5eWZwe_yp3c/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/0.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/1.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/2.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=5eWZwe_yp3c
+整理下新手在使用DeepSeek时经常遇到的误区，让你的使用效果超过95%的人。
+<a href="https://www.youtube.com/watch?v=5eWZwe_yp3c"><img src="https://img.youtube.com/vi/5eWZwe_yp3c/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/0.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/1.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/2.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=5eWZwe_yp3c
+整理下新手在使用DeepSeek时经常遇到的误区，让你的使用效果超过95%的人。<br />
+<a href="https://www.youtube.com/watch?v=5eWZwe_yp3c"><img src="https://img.youtube.com/vi/5eWZwe_yp3c/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/0.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/1.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/2.jpg" />
+<img src="https://img.youtube.com/vi/5eWZwe_yp3c/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/5eWZwe_yp3c/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250206-5eWZwe_yp3c.mp3" type="audio/mpeg" length="328" />
+      <itunes:duration>328</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250206-5eWZwe_yp3c.mp3</guid>
+      <pubDate>2025-02-06T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[1.27]DeepSeek R1试用、解析加部署，一个视频带你上手DeepSeek R1模型]]></title>
+      <itunes:title><![CDATA[1.27]DeepSeek R1试用、解析加部署，一个视频带你上手DeepSeek R1模型]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=xqMRFQ1if3Y
+朋友们DeepSeek又给我们带来惊喜了，在V3发布之后不到1个月，DeepSeek又发布了推理模型DeepSeek R1，这一次不仅在性能上超越预期，达到了比肩 OpenAI o1 正式版水平。一个视频带你速通DeepSeek R1模型，试用、解析加部署
+<a href="https://www.youtube.com/watch?v=xqMRFQ1if3Y"><img src="https://img.youtube.com/vi/xqMRFQ1if3Y/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/0.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/1.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/2.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=xqMRFQ1if3Y
+朋友们DeepSeek又给我们带来惊喜了，在V3发布之后不到1个月，DeepSeek又发布了推理模型DeepSeek R1，这一次不仅在性能上超越预期，达到了比肩 OpenAI o1 正式版水平。一个视频带你速通DeepSeek R1模型，试用、解析加部署
+<a href="https://www.youtube.com/watch?v=xqMRFQ1if3Y"><img src="https://img.youtube.com/vi/xqMRFQ1if3Y/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/0.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/1.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/2.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=xqMRFQ1if3Y
+朋友们DeepSeek又给我们带来惊喜了，在V3发布之后不到1个月，DeepSeek又发布了推理模型DeepSeek R1，这一次不仅在性能上超越预期，达到了比肩 OpenAI o1 正式版水平。一个视频带你速通DeepSeek R1模型，试用、解析加部署<br />
+<a href="https://www.youtube.com/watch?v=xqMRFQ1if3Y"><img src="https://img.youtube.com/vi/xqMRFQ1if3Y/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/0.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/1.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/2.jpg" />
+<img src="https://img.youtube.com/vi/xqMRFQ1if3Y/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/xqMRFQ1if3Y/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250127-xqMRFQ1if3Y.mp3" type="audio/mpeg" length="529" />
+      <itunes:duration>529</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250127-xqMRFQ1if3Y.mp3</guid>
+      <pubDate>2025-01-27T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[1.24]「Github一周热点59期」DeepSeek R1推理模型、实时语音转文字、自托管PaaS平台、轻量监控工具和终端文件管理工具]]></title>
+      <itunes:title><![CDATA[1.24]「Github一周热点59期」DeepSeek R1推理模型、实时语音转文字、自托管PaaS平台、轻量监控工具和终端文件管理工具]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=4M4K5wDNs2k
+1、项目名称：DeepSeek R1 - 推理模型
+- GitHub 链接：https://github.com/deepseek-ai/DeepSeek-R1
+2、项目名称：RealtimeSTT - 实时语音转文字
+- GitHub 链接：https://github.com/KoljaB/RealtimeSTT
+3、项目名称：dokploy -  自托管PaaS平台
+- GitHub 链接：https://github.com/Dokploy/dokploy
+4、项目名称：beszel - 轻量监控工具
+- GitHub 链接：https://github.com/henrygd/beszel
+5、项目名称：superfile - 终端文件管理工具
+- GitHub 链接：https://github.com/yorukot/superfile
+<a href="https://www.youtube.com/watch?v=4M4K5wDNs2k"><img src="https://img.youtube.com/vi/4M4K5wDNs2k/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/0.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/1.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/2.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=4M4K5wDNs2k
+1、项目名称：DeepSeek R1 - 推理模型
+- GitHub 链接：https://github.com/deepseek-ai/DeepSeek-R1
+2、项目名称：RealtimeSTT - 实时语音转文字
+- GitHub 链接：https://github.com/KoljaB/RealtimeSTT
+3、项目名称：dokploy -  自托管PaaS平台
+- GitHub 链接：https://github.com/Dokploy/dokploy
+4、项目名称：beszel - 轻量监控工具
+- GitHub 链接：https://github.com/henrygd/beszel
+5、项目名称：superfile - 终端文件管理工具
+- GitHub 链接：https://github.com/yorukot/superfile
+<a href="https://www.youtube.com/watch?v=4M4K5wDNs2k"><img src="https://img.youtube.com/vi/4M4K5wDNs2k/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/0.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/1.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/2.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=4M4K5wDNs2k
+1、项目名称：DeepSeek R1 - 推理模型
+- GitHub 链接：https://github.com/deepseek-ai/DeepSeek-R1
+2、项目名称：RealtimeSTT - 实时语音转文字
+- GitHub 链接：https://github.com/KoljaB/RealtimeSTT
+3、项目名称：dokploy -  自托管PaaS平台
+- GitHub 链接：https://github.com/Dokploy/dokploy
+4、项目名称：beszel - 轻量监控工具
+- GitHub 链接：https://github.com/henrygd/beszel
+5、项目名称：superfile - 终端文件管理工具
+- GitHub 链接：https://github.com/yorukot/superfile<br />
+<a href="https://www.youtube.com/watch?v=4M4K5wDNs2k"><img src="https://img.youtube.com/vi/4M4K5wDNs2k/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/0.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/1.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/2.jpg" />
+<img src="https://img.youtube.com/vi/4M4K5wDNs2k/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/4M4K5wDNs2k/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250124-4M4K5wDNs2k.mp3" type="audio/mpeg" length="385" />
+      <itunes:duration>385</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250124-4M4K5wDNs2k.mp3</guid>
+      <pubDate>2025-01-24T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[1.18]「Github一周热点58期」自托管 AI 代码助手、从0训练微型语言模型、AI SQL助手、文生图模型和开源电子商务平台]]></title>
+      <itunes:title><![CDATA[1.18]「Github一周热点58期」自托管 AI 代码助手、从0训练微型语言模型、AI SQL助手、文生图模型和开源电子商务平台]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=yzLRWCTPS8c
+1、项目名称：Tabby - 自托管 AI 代码助手
+- GitHub 链接：https://github.com/TabbyML/tabby
+2、项目名称：minimind - 从0训练微型语言模型
+- GitHub 链接：https://github.com/jingyaogong/minimind
+3、项目名称：WrenAI -  AI SQL助手
+- GitHub 链接：https://github.com/Canner/WrenAI
+4、项目名称：Sana - 文生图模型
+- GitHub 链接：https://github.com/NVlabs/Sana
+5、项目名称：spree - 开源电子商务平台
+- GitHub 链接：https://github.com/spree/spree
+<a href="https://www.youtube.com/watch?v=yzLRWCTPS8c"><img src="https://img.youtube.com/vi/yzLRWCTPS8c/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/0.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/1.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/2.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=yzLRWCTPS8c
+1、项目名称：Tabby - 自托管 AI 代码助手
+- GitHub 链接：https://github.com/TabbyML/tabby
+2、项目名称：minimind - 从0训练微型语言模型
+- GitHub 链接：https://github.com/jingyaogong/minimind
+3、项目名称：WrenAI -  AI SQL助手
+- GitHub 链接：https://github.com/Canner/WrenAI
+4、项目名称：Sana - 文生图模型
+- GitHub 链接：https://github.com/NVlabs/Sana
+5、项目名称：spree - 开源电子商务平台
+- GitHub 链接：https://github.com/spree/spree
+<a href="https://www.youtube.com/watch?v=yzLRWCTPS8c"><img src="https://img.youtube.com/vi/yzLRWCTPS8c/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/0.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/1.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/2.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=yzLRWCTPS8c
+1、项目名称：Tabby - 自托管 AI 代码助手
+- GitHub 链接：https://github.com/TabbyML/tabby
+2、项目名称：minimind - 从0训练微型语言模型
+- GitHub 链接：https://github.com/jingyaogong/minimind
+3、项目名称：WrenAI -  AI SQL助手
+- GitHub 链接：https://github.com/Canner/WrenAI
+4、项目名称：Sana - 文生图模型
+- GitHub 链接：https://github.com/NVlabs/Sana
+5、项目名称：spree - 开源电子商务平台
+- GitHub 链接：https://github.com/spree/spree<br />
+<a href="https://www.youtube.com/watch?v=yzLRWCTPS8c"><img src="https://img.youtube.com/vi/yzLRWCTPS8c/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/0.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/1.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/2.jpg" />
+<img src="https://img.youtube.com/vi/yzLRWCTPS8c/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/yzLRWCTPS8c/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250118-yzLRWCTPS8c.mp3" type="audio/mpeg" length="400" />
+      <itunes:duration>400</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250118-yzLRWCTPS8c.mp3</guid>
+      <pubDate>2025-01-18T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[1.11]「Github一周热点57期」世界基础模型平台、新的区块链、AI搜索引擎、国产开源CPU和PS4模拟器]]></title>
+      <itunes:title><![CDATA[1.11]「Github一周热点57期」世界基础模型平台、新的区块链、AI搜索引擎、国产开源CPU和PS4模拟器]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=EMf5Y4vaOM8
+1、项目名称：Cosmos - 世界基础模型平台
+- GitHub 链接：https://github.com/NVIDIA/Cosmos
+2、项目名称：inkonchain - 新区块链
+- GitHub 链接：https://github.com/inkonchain/node
+3、项目名称：miniperplx - AI搜索引擎
+- GitHub 链接：https://github.com/zaidmukaddam/miniperplx
+4、项目名称：XiangShan - 国产开源CPU
+- GitHub 链接：https://github.com/OpenXiangShan/XiangShan
+5、项目名称：shadPS4 - PS4模拟器
+- GitHub 链接：https://github.com/shadps4-emu/shadPS4
+<a href="https://www.youtube.com/watch?v=EMf5Y4vaOM8"><img src="https://img.youtube.com/vi/EMf5Y4vaOM8/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/0.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/1.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/2.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=EMf5Y4vaOM8
+1、项目名称：Cosmos - 世界基础模型平台
+- GitHub 链接：https://github.com/NVIDIA/Cosmos
+2、项目名称：inkonchain - 新区块链
+- GitHub 链接：https://github.com/inkonchain/node
+3、项目名称：miniperplx - AI搜索引擎
+- GitHub 链接：https://github.com/zaidmukaddam/miniperplx
+4、项目名称：XiangShan - 国产开源CPU
+- GitHub 链接：https://github.com/OpenXiangShan/XiangShan
+5、项目名称：shadPS4 - PS4模拟器
+- GitHub 链接：https://github.com/shadps4-emu/shadPS4
+<a href="https://www.youtube.com/watch?v=EMf5Y4vaOM8"><img src="https://img.youtube.com/vi/EMf5Y4vaOM8/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/0.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/1.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/2.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=EMf5Y4vaOM8
+1、项目名称：Cosmos - 世界基础模型平台
+- GitHub 链接：https://github.com/NVIDIA/Cosmos
+2、项目名称：inkonchain - 新区块链
+- GitHub 链接：https://github.com/inkonchain/node
+3、项目名称：miniperplx - AI搜索引擎
+- GitHub 链接：https://github.com/zaidmukaddam/miniperplx
+4、项目名称：XiangShan - 国产开源CPU
+- GitHub 链接：https://github.com/OpenXiangShan/XiangShan
+5、项目名称：shadPS4 - PS4模拟器
+- GitHub 链接：https://github.com/shadps4-emu/shadPS4<br />
+<a href="https://www.youtube.com/watch?v=EMf5Y4vaOM8"><img src="https://img.youtube.com/vi/EMf5Y4vaOM8/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/0.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/1.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/2.jpg" />
+<img src="https://img.youtube.com/vi/EMf5Y4vaOM8/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/EMf5Y4vaOM8/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250111-EMf5Y4vaOM8.mp3" type="audio/mpeg" length="392" />
+      <itunes:duration>392</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250111-EMf5Y4vaOM8.mp3</guid>
+      <pubDate>2025-01-11T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[1.8]好用，但也没太神！小白也能听懂的DeepSeek深度解析，带你了解它的神秘，顺便还教你怎么用]]></title>
+      <itunes:title><![CDATA[1.8]好用，但也没太神！小白也能听懂的DeepSeek深度解析，带你了解它的神秘，顺便还教你怎么用]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=AiBv9K_eO-I
+现在都在讨论DeepSeek，今天我就来深入聊一聊DeepSeek到底怎么样，好不好用，怎么用，以及技术上有什么神奇之处。
+<a href="https://www.youtube.com/watch?v=AiBv9K_eO-I"><img src="https://img.youtube.com/vi/AiBv9K_eO-I/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/0.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/1.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/2.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=AiBv9K_eO-I
+现在都在讨论DeepSeek，今天我就来深入聊一聊DeepSeek到底怎么样，好不好用，怎么用，以及技术上有什么神奇之处。
+<a href="https://www.youtube.com/watch?v=AiBv9K_eO-I"><img src="https://img.youtube.com/vi/AiBv9K_eO-I/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/0.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/1.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/2.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=AiBv9K_eO-I
+现在都在讨论DeepSeek，今天我就来深入聊一聊DeepSeek到底怎么样，好不好用，怎么用，以及技术上有什么神奇之处。<br />
+<a href="https://www.youtube.com/watch?v=AiBv9K_eO-I"><img src="https://img.youtube.com/vi/AiBv9K_eO-I/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/0.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/1.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/2.jpg" />
+<img src="https://img.youtube.com/vi/AiBv9K_eO-I/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/AiBv9K_eO-I/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250108-AiBv9K_eO-I.mp3" type="audio/mpeg" length="678" />
+      <itunes:duration>678</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250108-AiBv9K_eO-I.mp3</guid>
+      <pubDate>2025-01-08T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[1.4]「Github一周热点56期」DeepSeek开源大模型、免费编程电子书、电子书转有声书，思源笔记和轻量推荐系统]]></title>
+      <itunes:title><![CDATA[1.4]「Github一周热点56期」DeepSeek开源大模型、免费编程电子书、电子书转有声书，思源笔记和轻量推荐系统]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=ET_ji6iHyyw
+1、项目名称：DeepSeek-V3 - 自研开源大模型
+- GitHub 链接：https://github.com/deepseek-ai/DeepSeek-V3
+2、项目名称：free-programming-books - 免费编程电子书
+- GitHub 链接：https://github.com/EbookFoundation/free-programming-books
+3、项目名称：ebook2audiobook - 电子书转有声书
+- GitHub 链接：https://github.com/DrewThomasson/ebook2audiobook
+4、项目名称：siyuan - 思源笔记
+- GitHub 链接：https://github.com/siyuan-note/siyuan
+5、项目名称：monolith - 轻量推荐系统
+- GitHub 链接：https://github.com/bytedance/monolith
+<a href="https://www.youtube.com/watch?v=ET_ji6iHyyw"><img src="https://img.youtube.com/vi/ET_ji6iHyyw/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/0.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/1.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/2.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=ET_ji6iHyyw
+1、项目名称：DeepSeek-V3 - 自研开源大模型
+- GitHub 链接：https://github.com/deepseek-ai/DeepSeek-V3
+2、项目名称：free-programming-books - 免费编程电子书
+- GitHub 链接：https://github.com/EbookFoundation/free-programming-books
+3、项目名称：ebook2audiobook - 电子书转有声书
+- GitHub 链接：https://github.com/DrewThomasson/ebook2audiobook
+4、项目名称：siyuan - 思源笔记
+- GitHub 链接：https://github.com/siyuan-note/siyuan
+5、项目名称：monolith - 轻量推荐系统
+- GitHub 链接：https://github.com/bytedance/monolith
+<a href="https://www.youtube.com/watch?v=ET_ji6iHyyw"><img src="https://img.youtube.com/vi/ET_ji6iHyyw/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/0.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/1.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/2.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=ET_ji6iHyyw
+1、项目名称：DeepSeek-V3 - 自研开源大模型
+- GitHub 链接：https://github.com/deepseek-ai/DeepSeek-V3
+2、项目名称：free-programming-books - 免费编程电子书
+- GitHub 链接：https://github.com/EbookFoundation/free-programming-books
+3、项目名称：ebook2audiobook - 电子书转有声书
+- GitHub 链接：https://github.com/DrewThomasson/ebook2audiobook
+4、项目名称：siyuan - 思源笔记
+- GitHub 链接：https://github.com/siyuan-note/siyuan
+5、项目名称：monolith - 轻量推荐系统
+- GitHub 链接：https://github.com/bytedance/monolith<br />
+<a href="https://www.youtube.com/watch?v=ET_ji6iHyyw"><img src="https://img.youtube.com/vi/ET_ji6iHyyw/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/0.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/1.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/2.jpg" />
+<img src="https://img.youtube.com/vi/ET_ji6iHyyw/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/ET_ji6iHyyw/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250104-ET_ji6iHyyw.mp3" type="audio/mpeg" length="367" />
+      <itunes:duration>367</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250104-ET_ji6iHyyw.mp3</guid>
+      <pubDate>2025-01-04T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[12.31]2024 年度Github热点汇总]]></title>
+      <itunes:title><![CDATA[12.31]2024 年度Github热点汇总]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=zVJSZc32uKM
+2024 github 年度汇总来了。这一次我把时间维度从一周，拉长到一年，带你看看这一年里你不能错过的热门项目。
+1、llama
+https://github.com/meta-llama/llama3
+2、ollama
+https://github.com/ollama/ollama
+3、lobechat
+https://github.com/lobehub/lobe-chat
+4、gpt-sovits
+https://github.com/RVC-Boss/GPT-SoVITS
+5、ComfyUI
+https://github.com/comfyanonymous/ComfyUI
+6、flux
+https://github.com/black-forest-labs/flux
+7、awesome-ChatGPT-prompts
+https://github.com/f/awesome-chatgpt-prompts
+8、LangChain
+https://github.com/langchain-ai/langchain
+9、Qwen2.5
+https://github.com/QwenLM/Qwen2.5
+10、buildyourownx
+https://github.com/codecrafters-io/build-your-own-x
+11、hello-algo
+https://github.com/krahets/hello-algo
+12、zed
+https://github.com/zed-industries/zed
+13、windows
+https://github.com/dockur/windows
+14、Powertoys
+https://github.com/microsoft/PowerToys
+15、Flutter
+https://github.com/flutter/flutter
+16、Home Assistant
+https://github.com/home-assistant/home-assistant.io
+17、Gatsby
+https://github.com/gatsbyjs/gatsby
+18、prisma
+https://github.com/prisma/prisma
+19、Rustdesk
+https://github.com/rustdesk/rustdesk
+<a href="https://www.youtube.com/watch?v=zVJSZc32uKM"><img src="https://img.youtube.com/vi/zVJSZc32uKM/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/0.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/1.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/2.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=zVJSZc32uKM
+2024 github 年度汇总来了。这一次我把时间维度从一周，拉长到一年，带你看看这一年里你不能错过的热门项目。
+1、llama
+https://github.com/meta-llama/llama3
+2、ollama
+https://github.com/ollama/ollama
+3、lobechat
+https://github.com/lobehub/lobe-chat
+4、gpt-sovits
+https://github.com/RVC-Boss/GPT-SoVITS
+5、ComfyUI
+https://github.com/comfyanonymous/ComfyUI
+6、flux
+https://github.com/black-forest-labs/flux
+7、awesome-ChatGPT-prompts
+https://github.com/f/awesome-chatgpt-prompts
+8、LangChain
+https://github.com/langchain-ai/langchain
+9、Qwen2.5
+https://github.com/QwenLM/Qwen2.5
+10、buildyourownx
+https://github.com/codecrafters-io/build-your-own-x
+11、hello-algo
+https://github.com/krahets/hello-algo
+12、zed
+https://github.com/zed-industries/zed
+13、windows
+https://github.com/dockur/windows
+14、Powertoys
+https://github.com/microsoft/PowerToys
+15、Flutter
+https://github.com/flutter/flutter
+16、Home Assistant
+https://github.com/home-assistant/home-assistant.io
+17、Gatsby
+https://github.com/gatsbyjs/gatsby
+18、prisma
+https://github.com/prisma/prisma
+19、Rustdesk
+https://github.com/rustdesk/rustdesk
+<a href="https://www.youtube.com/watch?v=zVJSZc32uKM"><img src="https://img.youtube.com/vi/zVJSZc32uKM/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/0.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/1.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/2.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=zVJSZc32uKM
+2024 github 年度汇总来了。这一次我把时间维度从一周，拉长到一年，带你看看这一年里你不能错过的热门项目。
+1、llama
+https://github.com/meta-llama/llama3
+2、ollama
+https://github.com/ollama/ollama
+3、lobechat
+https://github.com/lobehub/lobe-chat
+4、gpt-sovits
+https://github.com/RVC-Boss/GPT-SoVITS
+5、ComfyUI
+https://github.com/comfyanonymous/ComfyUI
+6、flux
+https://github.com/black-forest-labs/flux
+7、awesome-ChatGPT-prompts
+https://github.com/f/awesome-chatgpt-prompts
+8、LangChain
+https://github.com/langchain-ai/langchain
+9、Qwen2.5
+https://github.com/QwenLM/Qwen2.5
+10、buildyourownx
+https://github.com/codecrafters-io/build-your-own-x
+11、hello-algo
+https://github.com/krahets/hello-algo
+12、zed
+https://github.com/zed-industries/zed
+13、windows
+https://github.com/dockur/windows
+14、Powertoys
+https://github.com/microsoft/PowerToys
+15、Flutter
+https://github.com/flutter/flutter
+16、Home Assistant
+https://github.com/home-assistant/home-assistant.io
+17、Gatsby
+https://github.com/gatsbyjs/gatsby
+18、prisma
+https://github.com/prisma/prisma
+19、Rustdesk
+https://github.com/rustdesk/rustdesk<br />
+<a href="https://www.youtube.com/watch?v=zVJSZc32uKM"><img src="https://img.youtube.com/vi/zVJSZc32uKM/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/0.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/1.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/2.jpg" />
+<img src="https://img.youtube.com/vi/zVJSZc32uKM/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/zVJSZc32uKM/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20241231-zVJSZc32uKM.mp3" type="audio/mpeg" length="1310" />
+      <itunes:duration>1310</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20241231-zVJSZc32uKM.mp3</guid>
+      <pubDate>2024-12-31T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[12.28]「Github一周热点55期」架构师必备指南、自动化测试工具包、无限画布白板、AI 测试框架和广告拦截器]]></title>
+      <itunes:title><![CDATA[12.28]「Github一周热点55期」架构师必备指南、自动化测试工具包、无限画布白板、AI 测试框架和广告拦截器]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=LxAp2v2BIaY
+1、项目名称：system-design-primer - 架构师必备指南
+- GitHub 链接：https://github.com/donnemartin/system-design-primer
+2、项目名称：SeleniumBase - 自动化测试工具包
+- GitHub 链接：https://github.com/seleniumbase/SeleniumBase
+3、项目名称：tldraw - 无限画布白板
+- GitHub 链接：https://github.com/tldraw/tldraw
+4、项目名称：shortest - AI 测试框架
+- GitHub 链接：https://github.com/anti-work/shortest
+5、项目名称：uBlock - 广告拦截器
+- GitHub 链接：https://github.com/gorhill/uBlock
+<a href="https://www.youtube.com/watch?v=LxAp2v2BIaY"><img src="https://img.youtube.com/vi/LxAp2v2BIaY/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/0.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/1.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/2.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=LxAp2v2BIaY
+1、项目名称：system-design-primer - 架构师必备指南
+- GitHub 链接：https://github.com/donnemartin/system-design-primer
+2、项目名称：SeleniumBase - 自动化测试工具包
+- GitHub 链接：https://github.com/seleniumbase/SeleniumBase
+3、项目名称：tldraw - 无限画布白板
+- GitHub 链接：https://github.com/tldraw/tldraw
+4、项目名称：shortest - AI 测试框架
+- GitHub 链接：https://github.com/anti-work/shortest
+5、项目名称：uBlock - 广告拦截器
+- GitHub 链接：https://github.com/gorhill/uBlock
+<a href="https://www.youtube.com/watch?v=LxAp2v2BIaY"><img src="https://img.youtube.com/vi/LxAp2v2BIaY/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/0.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/1.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/2.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=LxAp2v2BIaY
+1、项目名称：system-design-primer - 架构师必备指南
+- GitHub 链接：https://github.com/donnemartin/system-design-primer
+2、项目名称：SeleniumBase - 自动化测试工具包
+- GitHub 链接：https://github.com/seleniumbase/SeleniumBase
+3、项目名称：tldraw - 无限画布白板
+- GitHub 链接：https://github.com/tldraw/tldraw
+4、项目名称：shortest - AI 测试框架
+- GitHub 链接：https://github.com/anti-work/shortest
+5、项目名称：uBlock - 广告拦截器
+- GitHub 链接：https://github.com/gorhill/uBlock<br />
+<a href="https://www.youtube.com/watch?v=LxAp2v2BIaY"><img src="https://img.youtube.com/vi/LxAp2v2BIaY/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/0.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/1.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/2.jpg" />
+<img src="https://img.youtube.com/vi/LxAp2v2BIaY/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/LxAp2v2BIaY/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20241228-LxAp2v2BIaY.mp3" type="audio/mpeg" length="343" />
+      <itunes:duration>343</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20241228-LxAp2v2BIaY.mp3</guid>
+      <pubDate>2024-12-28T00:00:00.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[12.25]500PB的史诗级云上迁移？！5分钟，带你复刻迷你版过程]]></title>
+      <itunes:title><![CDATA[12.25]500PB的史诗级云上迁移？！5分钟，带你复刻迷你版过程]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=kC1gXCpz5qg
+小红书进行了一次超500PB数据的云上迁移，可以说是2024年的一次史诗级迁移，今天就想和你聊聊这次迁移和背后的技术，并且一块来做一些动手实践
+<a href="https://www.youtube.com/watch?v=kC1gXCpz5qg"><img src="https://img.youtube.com/vi/kC1gXCpz5qg/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/0.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/1.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/2.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/3.jpg" /></a>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=kC1gXCpz5qg
+小红书进行了一次超500PB数据的云上迁移，可以说是2024年的一次史诗级迁移，今天就想和你聊聊这次迁移和背后的技术，并且一块来做一些动手实践
+<a href="https://www.youtube.com/watch?v=kC1gXCpz5qg"><img src="https://img.youtube.com/vi/kC1gXCpz5qg/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/0.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/1.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/2.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/3.jpg" /></a>]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=kC1gXCpz5qg
+小红书进行了一次超500PB数据的云上迁移，可以说是2024年的一次史诗级迁移，今天就想和你聊聊这次迁移和背后的技术，并且一块来做一些动手实践<br />
+<a href="https://www.youtube.com/watch?v=kC1gXCpz5qg"><img src="https://img.youtube.com/vi/kC1gXCpz5qg/maxresdefault.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/0.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/1.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/2.jpg" />
+<img src="https://img.youtube.com/vi/kC1gXCpz5qg/3.jpg" /></a></pre>]]></content:encoded>
+      <itunes:image href="https://img.youtube.com/vi/kC1gXCpz5qg/maxresdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20241225-kC1gXCpz5qg.mp3" type="audio/mpeg" length="316" />
+      <itunes:duration>316</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20241225-kC1gXCpz5qg.mp3</guid>
+      <pubDate>2024-12-25T00:00:00.000Z</pubDate>
+    </item></channel>
+</rss>
