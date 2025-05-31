@@ -30,6 +30,37 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/5Qi-deqJ6KHfYVd7nTn5J33d3bsnxin6pebd6mJGAY9Ab6doja-T1l5BSJvPQX8SRK02vNuEu0I=s120-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[5.31]不要浪費時間追這部異世界爛作]]></title>
+      <itunes:title><![CDATA[5.31]不要浪費時間追這部異世界爛作]]></itunes:title>
+      <itunes:author><![CDATA[Kuma桑]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=je1zYfgKxEY
+品質爛我勉强可以接受 但演出真的太迷啦！
+
+#kuma桑 
+#動漫 
+#新番]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=je1zYfgKxEY
+品質爛我勉强可以接受 但演出真的太迷啦！
+
+#kuma桑 
+#動漫 
+#新番]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=je1zYfgKxEY
+品質爛我勉强可以接受 但演出真的太迷啦！
+
+#kuma桑 
+#動漫 
+#新番</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/je1zYfgKxEY/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20250531-je1zYfgKxEY.mp3" type="audio/mpeg" length="547" />
+      <itunes:duration>547</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20250531-je1zYfgKxEY.mp3</guid>
+      <pubDate>2025-05-31T10:44:39.000Z</pubDate>
+    </item><item>
       <title><![CDATA[5.27]這部動畫比出租女友好看多了！]]></title>
       <itunes:title><![CDATA[5.27]這部動畫比出租女友好看多了！]]></itunes:title>
       <itunes:author><![CDATA[Kuma桑]]></itunes:author>
@@ -255,42 +286,5 @@
       <itunes:duration>514</itunes:duration>
       <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20250510-95yLzizIX_c.mp3</guid>
       <pubDate>2025-05-10T13:02:11.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[5.6]【鄉下劍聖大叔】動畫版真的不如漫畫版嗎？]]></title>
-      <itunes:title><![CDATA[5.6]【鄉下劍聖大叔】動畫版真的不如漫畫版嗎？]]></itunes:title>
-      <itunes:author><![CDATA[Kuma桑]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[https://www.youtube.com/watch?v=CfSp8TGjzjE
-不管原因如何，我認爲動畫版是不錯的
-資料文章1：https://funfuntanoshii.com/archives/4507
-資料文章2：https://souchan-moimoi.com/archives/9290
-
-#kuma桑 
-#動漫 
-#新番]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[https://www.youtube.com/watch?v=CfSp8TGjzjE
-不管原因如何，我認爲動畫版是不錯的
-資料文章1：https://funfuntanoshii.com/archives/4507
-資料文章2：https://souchan-moimoi.com/archives/9290
-
-#kuma桑 
-#動漫 
-#新番]]>
-      </description>
-      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=CfSp8TGjzjE
-不管原因如何，我認爲動畫版是不錯的
-資料文章1：https://funfuntanoshii.com/archives/4507
-資料文章2：https://souchan-moimoi.com/archives/9290
-
-#kuma桑 
-#動漫 
-#新番</pre>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/CfSp8TGjzjE/hqdefault.jpg"/>
-      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20250506-CfSp8TGjzjE.mp3" type="audio/mpeg" length="624" />
-      <itunes:duration>624</itunes:duration>
-      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20250506-CfSp8TGjzjE.mp3</guid>
-      <pubDate>2025-05-06T14:39:41.000Z</pubDate>
     </item></channel>
 </rss>
