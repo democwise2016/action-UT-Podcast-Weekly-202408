@@ -1,0 +1,615 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></title>
+    <link>https://www.youtube.com/@it-coffee</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s120-c-k-c0x00ffffff-no-rj</url>
+      <title>IT咖啡馆: GitHub軟體介紹 [UT]</title>
+      <link>https://www.youtube.com/@it-coffee</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></copyright>
+    <itunes:author><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw</a>LINK<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw</a>LINK<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s120-c-k-c0x00ffffff-no-rj"/>
+<item>
+      <title><![CDATA[6.8]「Github一周热点74期」设计师专属的 Cursor、Python爬虫框架、提示词工程的交互式教程、Markdown排版工具和电子邮件营销平台]]></title>
+      <itunes:title><![CDATA[6.8]「Github一周热点74期」设计师专属的 Cursor、Python爬虫框架、提示词工程的交互式教程、Markdown排版工具和电子邮件营销平台]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=LylZhmCFlv4
+1、项目名称：onlook - 设计师专属的 Cursor
+- GitHub 链接：https://github.com/onlook-dev/onlook
+2、项目名称：scrapy - Python爬虫框架
+- GitHub 链接：https://github.com/scrapy/scrapy
+3、项目名称：prompt-eng-interactive-tutorial -  提示词工程的交互式教程
+- GitHub 链接：https://github.com/anthropics/prompt-eng-interactive-tutorial
+4、项目名称：quarkdown - Markdown排版工具
+- GitHub 链接：https://github.com/iamgio/quarkdown
+5、项目名称：BillionMail -  电子邮件营销平台
+- GitHub 链接：https://github.com/aaPanel/BillionMail]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=LylZhmCFlv4
+1、项目名称：onlook - 设计师专属的 Cursor
+- GitHub 链接：https://github.com/onlook-dev/onlook
+2、项目名称：scrapy - Python爬虫框架
+- GitHub 链接：https://github.com/scrapy/scrapy
+3、项目名称：prompt-eng-interactive-tutorial -  提示词工程的交互式教程
+- GitHub 链接：https://github.com/anthropics/prompt-eng-interactive-tutorial
+4、项目名称：quarkdown - Markdown排版工具
+- GitHub 链接：https://github.com/iamgio/quarkdown
+5、项目名称：BillionMail -  电子邮件营销平台
+- GitHub 链接：https://github.com/aaPanel/BillionMail]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=LylZhmCFlv4
+1、项目名称：onlook - 设计师专属的 Cursor
+- GitHub 链接：https://github.com/onlook-dev/onlook
+2、项目名称：scrapy - Python爬虫框架
+- GitHub 链接：https://github.com/scrapy/scrapy
+3、项目名称：prompt-eng-interactive-tutorial -  提示词工程的交互式教程
+- GitHub 链接：https://github.com/anthropics/prompt-eng-interactive-tutorial
+4、项目名称：quarkdown - Markdown排版工具
+- GitHub 链接：https://github.com/iamgio/quarkdown
+5、项目名称：BillionMail -  电子邮件营销平台
+- GitHub 链接：https://github.com/aaPanel/BillionMail</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/LylZhmCFlv4/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250608-LylZhmCFlv4.mp3" type="audio/mpeg" length="303" />
+      <itunes:duration>303</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250608-LylZhmCFlv4.mp3</guid>
+      <pubDate>2025-06-08T06:16:29.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[6.1]「Github一周热点73期」本地manus替代，AI 数据查询引擎 ，小智AI 聊天机器人，动态人像生成和一栈式后端开发平台]]></title>
+      <itunes:title><![CDATA[6.1]「Github一周热点73期」本地manus替代，AI 数据查询引擎 ，小智AI 聊天机器人，动态人像生成和一栈式后端开发平台]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=MReodrJJ__M
+GitHub 一周热点第73期(2025/05/25 - 5/31），本期内容包括本地manus替代，AI 数据查询引擎 ，小智AI 聊天机器人，动态人像生成和一栈式后端开发平台。最后还有2份资料分享。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=MReodrJJ__M
+GitHub 一周热点第73期(2025/05/25 - 5/31），本期内容包括本地manus替代，AI 数据查询引擎 ，小智AI 聊天机器人，动态人像生成和一栈式后端开发平台。最后还有2份资料分享。]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=MReodrJJ__M
+GitHub 一周热点第73期(2025/05/25 - 5/31），本期内容包括本地manus替代，AI 数据查询引擎 ，小智AI 聊天机器人，动态人像生成和一栈式后端开发平台。最后还有2份资料分享。</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/MReodrJJ__M/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250601-MReodrJJ__M.mp3" type="audio/mpeg" length="282" />
+      <itunes:duration>282</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250601-MReodrJJ__M.mp3</guid>
+      <pubDate>2025-06-01T16:04:03.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[5.31]2分钟老网站加装AI助手？用开源项目打通AI最后一公里]]></title>
+      <itunes:title><![CDATA[5.31]2分钟老网站加装AI助手？用开源项目打通AI最后一公里]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=CA7_h6gWBiw
+今天我们用开源项目给网站快速增加AI助手。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=CA7_h6gWBiw
+今天我们用开源项目给网站快速增加AI助手。]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=CA7_h6gWBiw
+今天我们用开源项目给网站快速增加AI助手。</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/CA7_h6gWBiw/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250531-CA7_h6gWBiw.mp3" type="audio/mpeg" length="248" />
+      <itunes:duration>248</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250531-CA7_h6gWBiw.mp3</guid>
+      <pubDate>2025-05-31T09:19:25.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[5.24]「Github一周热点72期」小初高PDF教材、从聊天记录创造数字分身、Linux子系统、油管音乐客户端和U盘启动工具]]></title>
+      <itunes:title><![CDATA[5.24]「Github一周热点72期」小初高PDF教材、从聊天记录创造数字分身、Linux子系统、油管音乐客户端和U盘启动工具]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=L7P2DOSztZE
+1、项目名称：ChinaTextbook - 小初高、大学PDF教材
+- GitHub 链接：https://github.com/TapXWorld/ChinaTextbook
+2、项目名称：WeClone - 从聊天记录创造数字分身
+- GitHub 链接：https://github.com/xming521/WeClone
+3、项目名称：WSL - windows的Linux子系统
+- GitHub 链接：https://github.com/microsoft/WSL
+4、项目名称：youtube-music - 油管音乐客户端
+- GitHub 链接：https://github.com/th-ch/youtube-music
+5、项目名称：Ventoy -  U盘启动工具
+- GitHub 链接：https://github.com/ventoy/Ventoy]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=L7P2DOSztZE
+1、项目名称：ChinaTextbook - 小初高、大学PDF教材
+- GitHub 链接：https://github.com/TapXWorld/ChinaTextbook
+2、项目名称：WeClone - 从聊天记录创造数字分身
+- GitHub 链接：https://github.com/xming521/WeClone
+3、项目名称：WSL - windows的Linux子系统
+- GitHub 链接：https://github.com/microsoft/WSL
+4、项目名称：youtube-music - 油管音乐客户端
+- GitHub 链接：https://github.com/th-ch/youtube-music
+5、项目名称：Ventoy -  U盘启动工具
+- GitHub 链接：https://github.com/ventoy/Ventoy]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=L7P2DOSztZE
+1、项目名称：ChinaTextbook - 小初高、大学PDF教材
+- GitHub 链接：https://github.com/TapXWorld/ChinaTextbook
+2、项目名称：WeClone - 从聊天记录创造数字分身
+- GitHub 链接：https://github.com/xming521/WeClone
+3、项目名称：WSL - windows的Linux子系统
+- GitHub 链接：https://github.com/microsoft/WSL
+4、项目名称：youtube-music - 油管音乐客户端
+- GitHub 链接：https://github.com/th-ch/youtube-music
+5、项目名称：Ventoy -  U盘启动工具
+- GitHub 链接：https://github.com/ventoy/Ventoy</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/L7P2DOSztZE/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250524-L7P2DOSztZE.mp3" type="audio/mpeg" length="304" />
+      <itunes:duration>304</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250524-L7P2DOSztZE.mp3</guid>
+      <pubDate>2025-05-24T09:22:46.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[5.11]「Github一周热点71期」互动桌面宠物、K8s的AI助手、WEB 3D引擎、云原生安全扫描工具和为AI agent 设计的弹性云]]></title>
+      <itunes:title><![CDATA[5.11]「Github一周热点71期」互动桌面宠物、K8s的AI助手、WEB 3D引擎、云原生安全扫描工具和为AI agent 设计的弹性云]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=MUmwpTvOfd4
+1、项目名称：BongoCat - 互动桌面宠物
+- GitHub 链接：https://github.com/ayangweb/BongoCat
+2、项目名称：kubectl-ai - K8s的AI助手
+- GitHub 链接：https://github.com/GoogleCloudPlatform/kubectl-ai
+3、项目名称：Galacean - WEB 3D引擎
+- GitHub 链接：https://github.com/galacean/engine
+4、项目名称：trivy - 云原升安全扫描工具
+- GitHub 链接：https://github.com/aquasecurity/trivy
+5、项目名称：daytona -  为AI agent 设计的弹性云
+- GitHub 链接：https://github.com/daytonaio/daytona]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=MUmwpTvOfd4
+1、项目名称：BongoCat - 互动桌面宠物
+- GitHub 链接：https://github.com/ayangweb/BongoCat
+2、项目名称：kubectl-ai - K8s的AI助手
+- GitHub 链接：https://github.com/GoogleCloudPlatform/kubectl-ai
+3、项目名称：Galacean - WEB 3D引擎
+- GitHub 链接：https://github.com/galacean/engine
+4、项目名称：trivy - 云原升安全扫描工具
+- GitHub 链接：https://github.com/aquasecurity/trivy
+5、项目名称：daytona -  为AI agent 设计的弹性云
+- GitHub 链接：https://github.com/daytonaio/daytona]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=MUmwpTvOfd4
+1、项目名称：BongoCat - 互动桌面宠物
+- GitHub 链接：https://github.com/ayangweb/BongoCat
+2、项目名称：kubectl-ai - K8s的AI助手
+- GitHub 链接：https://github.com/GoogleCloudPlatform/kubectl-ai
+3、项目名称：Galacean - WEB 3D引擎
+- GitHub 链接：https://github.com/galacean/engine
+4、项目名称：trivy - 云原升安全扫描工具
+- GitHub 链接：https://github.com/aquasecurity/trivy
+5、项目名称：daytona -  为AI agent 设计的弹性云
+- GitHub 链接：https://github.com/daytonaio/daytona</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/MUmwpTvOfd4/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250511-MUmwpTvOfd4.mp3" type="audio/mpeg" length="292" />
+      <itunes:duration>292</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250511-MUmwpTvOfd4.mp3</guid>
+      <pubDate>2025-05-11T03:00:22.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[4.26]「Github一周热点70期」原生1bit模型，无限长度影片生成模型，程序员在家做饭方法指南、浏览器中运行VSCode和命令行的视频下载器]]></title>
+      <itunes:title><![CDATA[4.26]「Github一周热点70期」原生1bit模型，无限长度影片生成模型，程序员在家做饭方法指南、浏览器中运行VSCode和命令行的视频下载器]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=jGdlBdPAYl8
+1、项目名称：BitNet - 原生1bit模型
+- GitHub 链接：https://github.com/microsoft/BitNet
+2、项目名称：SkyReels-V2 - 无限长度影片生成模型
+- GitHub 链接：https://github.com/SkyworkAI/SkyReels-V2
+3、项目名称：HowToCook - 程序员在家做饭方法指南
+- GitHub 链接：https://github.com/Anduin2017/HowToCook
+4、项目名称：code-server - 浏览器中运行VSCode
+- GitHub 链接：https://github.com/coder/code-server
+5、项目名称：yt-dlp -  命令行的视频下载器
+- GitHub 链接：https://github.com/yt-dlp/yt-dlp]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=jGdlBdPAYl8
+1、项目名称：BitNet - 原生1bit模型
+- GitHub 链接：https://github.com/microsoft/BitNet
+2、项目名称：SkyReels-V2 - 无限长度影片生成模型
+- GitHub 链接：https://github.com/SkyworkAI/SkyReels-V2
+3、项目名称：HowToCook - 程序员在家做饭方法指南
+- GitHub 链接：https://github.com/Anduin2017/HowToCook
+4、项目名称：code-server - 浏览器中运行VSCode
+- GitHub 链接：https://github.com/coder/code-server
+5、项目名称：yt-dlp -  命令行的视频下载器
+- GitHub 链接：https://github.com/yt-dlp/yt-dlp]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=jGdlBdPAYl8
+1、项目名称：BitNet - 原生1bit模型
+- GitHub 链接：https://github.com/microsoft/BitNet
+2、项目名称：SkyReels-V2 - 无限长度影片生成模型
+- GitHub 链接：https://github.com/SkyworkAI/SkyReels-V2
+3、项目名称：HowToCook - 程序员在家做饭方法指南
+- GitHub 链接：https://github.com/Anduin2017/HowToCook
+4、项目名称：code-server - 浏览器中运行VSCode
+- GitHub 链接：https://github.com/coder/code-server
+5、项目名称：yt-dlp -  命令行的视频下载器
+- GitHub 链接：https://github.com/yt-dlp/yt-dlp</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/jGdlBdPAYl8/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250426-jGdlBdPAYl8.mp3" type="audio/mpeg" length="361" />
+      <itunes:duration>361</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250426-jGdlBdPAYl8.mp3</guid>
+      <pubDate>2025-04-26T09:34:25.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[4.20]「Github一周热点69期」轻量编程智能体，前端动画库，音视频翻译工具，可穿戴AI设备和构建终端风格的网站]]></title>
+      <itunes:title><![CDATA[4.20]「Github一周热点69期」轻量编程智能体，前端动画库，音视频翻译工具，可穿戴AI设备和构建终端风格的网站]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=OTGShtbX1eU
+1、项目名称：codex - 轻量级编程智能体
+- GitHub 链接：https://github.com/openai/codex
+2、项目名称：anime - 前端动画库
+- GitHub 链接：https://github.com/juliangarnier/anime
+3、项目名称：KrillinAI - 音视频翻译工具
+- GitHub 链接：https://github.com/krillinai/KrillinAI
+4、项目名称：omi - 可穿戴AI设备
+- GitHub 链接：https://github.com/BasedHardware/omi
+5、项目名称：LiveTerm -  构建终端风格的网站
+- GitHub 链接：https://github.com/Cveinnt/LiveTerm]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=OTGShtbX1eU
+1、项目名称：codex - 轻量级编程智能体
+- GitHub 链接：https://github.com/openai/codex
+2、项目名称：anime - 前端动画库
+- GitHub 链接：https://github.com/juliangarnier/anime
+3、项目名称：KrillinAI - 音视频翻译工具
+- GitHub 链接：https://github.com/krillinai/KrillinAI
+4、项目名称：omi - 可穿戴AI设备
+- GitHub 链接：https://github.com/BasedHardware/omi
+5、项目名称：LiveTerm -  构建终端风格的网站
+- GitHub 链接：https://github.com/Cveinnt/LiveTerm]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=OTGShtbX1eU
+1、项目名称：codex - 轻量级编程智能体
+- GitHub 链接：https://github.com/openai/codex
+2、项目名称：anime - 前端动画库
+- GitHub 链接：https://github.com/juliangarnier/anime
+3、项目名称：KrillinAI - 音视频翻译工具
+- GitHub 链接：https://github.com/krillinai/KrillinAI
+4、项目名称：omi - 可穿戴AI设备
+- GitHub 链接：https://github.com/BasedHardware/omi
+5、项目名称：LiveTerm -  构建终端风格的网站
+- GitHub 链接：https://github.com/Cveinnt/LiveTerm</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/OTGShtbX1eU/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250420-OTGShtbX1eU.mp3" type="audio/mpeg" length="321" />
+      <itunes:duration>321</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250420-OTGShtbX1eU.mp3</guid>
+      <pubDate>2025-04-20T04:15:13.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[4.15]「Github一周热点68期」A2A协议、无代码Web爬虫、网盘聚合工具、cursor无限续杯和 MCP 开发SDK]]></title>
+      <itunes:title><![CDATA[4.15]「Github一周热点68期」A2A协议、无代码Web爬虫、网盘聚合工具、cursor无限续杯和 MCP 开发SDK]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=V7gFlTzJDts
+1、项目名称：A2A - 谷歌开源的agent通信协议
+- GitHub 链接：https://github.com/google/A2A
+2、项目名称：maxun - 无代码Web数据提取
+- GitHub 链接：https://github.com/getmaxun/maxun
+3、项目名称：Alist - 网盘聚合
+- GitHub 链接：https://github.com/AlistGo/alist
+4、项目名称：cursor-free-vip -  cursor续杯工具
+- GitHub 链接：https://github.com/yeongpin/cursor-free-vip
+5、项目名称：fastmcp - MCP的开发SDK
+- GitHub 链接：https://github.com/jlowin/fastmcp]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=V7gFlTzJDts
+1、项目名称：A2A - 谷歌开源的agent通信协议
+- GitHub 链接：https://github.com/google/A2A
+2、项目名称：maxun - 无代码Web数据提取
+- GitHub 链接：https://github.com/getmaxun/maxun
+3、项目名称：Alist - 网盘聚合
+- GitHub 链接：https://github.com/AlistGo/alist
+4、项目名称：cursor-free-vip -  cursor续杯工具
+- GitHub 链接：https://github.com/yeongpin/cursor-free-vip
+5、项目名称：fastmcp - MCP的开发SDK
+- GitHub 链接：https://github.com/jlowin/fastmcp]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=V7gFlTzJDts
+1、项目名称：A2A - 谷歌开源的agent通信协议
+- GitHub 链接：https://github.com/google/A2A
+2、项目名称：maxun - 无代码Web数据提取
+- GitHub 链接：https://github.com/getmaxun/maxun
+3、项目名称：Alist - 网盘聚合
+- GitHub 链接：https://github.com/AlistGo/alist
+4、项目名称：cursor-free-vip -  cursor续杯工具
+- GitHub 链接：https://github.com/yeongpin/cursor-free-vip
+5、项目名称：fastmcp - MCP的开发SDK
+- GitHub 链接：https://github.com/jlowin/fastmcp</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/V7gFlTzJDts/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250415-V7gFlTzJDts.mp3" type="audio/mpeg" length="352" />
+      <itunes:duration>352</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250415-V7gFlTzJDts.mp3</guid>
+      <pubDate>2025-04-15T02:45:31.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[4.3]「Github一周热点67期」AI agent入门课，全网热点聚合，生成SVG的多模态模型， AI量化投资平台和GitHub 架构图生成器]]></title>
+      <itunes:title><![CDATA[4.3]「Github一周热点67期」AI agent入门课，全网热点聚合，生成SVG的多模态模型， AI量化投资平台和GitHub 架构图生成器]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=RKEo7X9jo0c
+1、项目名称：ai-agents-for-beginners - AI agent入门课
+- GitHub 链接：https://github.com/microsoft/ai-agents-for-beginners
+2、项目名称：newsnow - 全网热点聚合
+- GitHub 链接：https://github.com/ourongxing/newsnow
+3、项目名称：star-vector - 生成SVG多模态模型
+- GitHub 链接：https://github.com/joanrod/star-vector
+4、项目名称：qlib -  AI量化投资平台
+- GitHub 链接：https://github.com/microsoft/qlib
+5、项目名称：gitdiagram - 生成 GitHub 架构图
+- GitHub 链接：https://github.com/ahmedkhaleel2004/gitdiagram]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=RKEo7X9jo0c
+1、项目名称：ai-agents-for-beginners - AI agent入门课
+- GitHub 链接：https://github.com/microsoft/ai-agents-for-beginners
+2、项目名称：newsnow - 全网热点聚合
+- GitHub 链接：https://github.com/ourongxing/newsnow
+3、项目名称：star-vector - 生成SVG多模态模型
+- GitHub 链接：https://github.com/joanrod/star-vector
+4、项目名称：qlib -  AI量化投资平台
+- GitHub 链接：https://github.com/microsoft/qlib
+5、项目名称：gitdiagram - 生成 GitHub 架构图
+- GitHub 链接：https://github.com/ahmedkhaleel2004/gitdiagram]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=RKEo7X9jo0c
+1、项目名称：ai-agents-for-beginners - AI agent入门课
+- GitHub 链接：https://github.com/microsoft/ai-agents-for-beginners
+2、项目名称：newsnow - 全网热点聚合
+- GitHub 链接：https://github.com/ourongxing/newsnow
+3、项目名称：star-vector - 生成SVG多模态模型
+- GitHub 链接：https://github.com/joanrod/star-vector
+4、项目名称：qlib -  AI量化投资平台
+- GitHub 链接：https://github.com/microsoft/qlib
+5、项目名称：gitdiagram - 生成 GitHub 架构图
+- GitHub 链接：https://github.com/ahmedkhaleel2004/gitdiagram</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/RKEo7X9jo0c/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250403-RKEo7X9jo0c.mp3" type="audio/mpeg" length="333" />
+      <itunes:duration>333</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250403-RKEo7X9jo0c.mp3</guid>
+      <pubDate>2025-04-03T05:28:44.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[3.27]「Github一周热点66期」动化工作流编排、浏览器文件分享工具、微信好友检测、自托管的信息仪表盘和构建和训练自己的机器人]]></title>
+      <itunes:title><![CDATA[3.27]「Github一周热点66期」动化工作流编排、浏览器文件分享工具、微信好友检测、自托管的信息仪表盘和构建和训练自己的机器人]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=s60Swu9erTo
+1、项目名称：n8n - 自动化工作流编排工具
+- GitHub 链接：https://github.com/n8n-io/n8n
+2、项目名称：filepizza - 浏览器文件分享工具
+- GitHub 链接：https://github.com/kern/filepizza
+3、项目名称：WechatRealFriends - 微信好友检测工具
+- GitHub 链接：https://github.com/StrayMeteor3337/WechatRealFriends
+4、项目名称：glance -  自托管的信息仪表盘
+- GitHub 链接：https://github.com/glanceapp/glance
+5、项目名称：lerobot - 构建和训练自己的机器人
+- GitHub 链接：https://github.com/huggingface/lerobot]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=s60Swu9erTo
+1、项目名称：n8n - 自动化工作流编排工具
+- GitHub 链接：https://github.com/n8n-io/n8n
+2、项目名称：filepizza - 浏览器文件分享工具
+- GitHub 链接：https://github.com/kern/filepizza
+3、项目名称：WechatRealFriends - 微信好友检测工具
+- GitHub 链接：https://github.com/StrayMeteor3337/WechatRealFriends
+4、项目名称：glance -  自托管的信息仪表盘
+- GitHub 链接：https://github.com/glanceapp/glance
+5、项目名称：lerobot - 构建和训练自己的机器人
+- GitHub 链接：https://github.com/huggingface/lerobot]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=s60Swu9erTo
+1、项目名称：n8n - 自动化工作流编排工具
+- GitHub 链接：https://github.com/n8n-io/n8n
+2、项目名称：filepizza - 浏览器文件分享工具
+- GitHub 链接：https://github.com/kern/filepizza
+3、项目名称：WechatRealFriends - 微信好友检测工具
+- GitHub 链接：https://github.com/StrayMeteor3337/WechatRealFriends
+4、项目名称：glance -  自托管的信息仪表盘
+- GitHub 链接：https://github.com/glanceapp/glance
+5、项目名称：lerobot - 构建和训练自己的机器人
+- GitHub 链接：https://github.com/huggingface/lerobot</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/s60Swu9erTo/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250327-s60Swu9erTo.mp3" type="audio/mpeg" length="357" />
+      <itunes:duration>357</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250327-s60Swu9erTo.mp3</guid>
+      <pubDate>2025-03-27T05:20:11.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[3.21]Github热门怎么找？手把手教你做一个Github热点统计，AI编程实战]]></title>
+      <itunes:title><![CDATA[3.21]Github热门怎么找？手把手教你做一个Github热点统计，AI编程实战]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=VAldQMAgU4w
+手把手教你做一个Github热点统计，AI编程实战]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=VAldQMAgU4w
+手把手教你做一个Github热点统计，AI编程实战]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=VAldQMAgU4w
+手把手教你做一个Github热点统计，AI编程实战</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/VAldQMAgU4w/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250321-VAldQMAgU4w.mp3" type="audio/mpeg" length="496" />
+      <itunes:duration>496</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250321-VAldQMAgU4w.mp3</guid>
+      <pubDate>2025-03-21T09:26:54.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[3.15]「Github一周热点65期」OpenAI的Agent开发工具，开源视频生成模型，MCP server合集，shell 连接中心和多智能体量化交易]]></title>
+      <itunes:title><![CDATA[3.15]「Github一周热点65期」OpenAI的Agent开发工具，开源视频生成模型，MCP server合集，shell 连接中心和多智能体量化交易]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=wk3tZLB3SDQ
+1、项目名称：openai-agents-python - OpenAI的Agent开发工具
+- GitHub 链接：https://github.com/openai/openai-agents-python
+2、项目名称：open-sora - 开源视频生成模型
+- GitHub 链接：https://github.com/hpcaitech/Open-Sora
+3、项目名称：awesome-mcp-servers - MCP server合集
+- GitHub 链接：https://github.com/punkpeye/awesome-mcp-servers
+4、项目名称：xpipe -  shell 连接中心
+- GitHub 链接：https://github.com/xpipe-io/xpipe
+5、项目名称：ai-hedge-fund - 多智能体量化交易
+- GitHub 链接：https://github.com/virattt/ai-hedge-fund]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=wk3tZLB3SDQ
+1、项目名称：openai-agents-python - OpenAI的Agent开发工具
+- GitHub 链接：https://github.com/openai/openai-agents-python
+2、项目名称：open-sora - 开源视频生成模型
+- GitHub 链接：https://github.com/hpcaitech/Open-Sora
+3、项目名称：awesome-mcp-servers - MCP server合集
+- GitHub 链接：https://github.com/punkpeye/awesome-mcp-servers
+4、项目名称：xpipe -  shell 连接中心
+- GitHub 链接：https://github.com/xpipe-io/xpipe
+5、项目名称：ai-hedge-fund - 多智能体量化交易
+- GitHub 链接：https://github.com/virattt/ai-hedge-fund]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=wk3tZLB3SDQ
+1、项目名称：openai-agents-python - OpenAI的Agent开发工具
+- GitHub 链接：https://github.com/openai/openai-agents-python
+2、项目名称：open-sora - 开源视频生成模型
+- GitHub 链接：https://github.com/hpcaitech/Open-Sora
+3、项目名称：awesome-mcp-servers - MCP server合集
+- GitHub 链接：https://github.com/punkpeye/awesome-mcp-servers
+4、项目名称：xpipe -  shell 连接中心
+- GitHub 链接：https://github.com/xpipe-io/xpipe
+5、项目名称：ai-hedge-fund - 多智能体量化交易
+- GitHub 链接：https://github.com/virattt/ai-hedge-fund</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/wk3tZLB3SDQ/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250315-wk3tZLB3SDQ.mp3" type="audio/mpeg" length="531" />
+      <itunes:duration>531</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250315-wk3tZLB3SDQ.mp3</guid>
+      <pubDate>2025-03-15T06:54:26.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[3.9]「Github一周热点64期」Manus开源实现仅用5人3小时？含金量如何]]></title>
+      <itunes:title><![CDATA[3.9]「Github一周热点64期」Manus开源实现仅用5人3小时？含金量如何]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=N9ph6HD1bPQ
+1、项目名称：OpenManus - Manus开源实现
+- GitHub 链接：https://github.com/mannaandpoem/OpenManus
+2、项目名称：composio - AI Agent的工具集
+- GitHub 链接：https://github.com/ComposioHQ/composio
+3、项目名称：clay - 高性能2D UI 布局库
+- GitHub 链接：https://github.com/nicbarker/clay
+4、项目名称：SpacetimeDB -  高性能游戏数据库
+- GitHub 链接：https://github.com/clockworklabs/SpacetimeDB
+5、项目名称：CnC_Red_Alert - 红警系列游戏
+- GitHub 链接：https://github.com/electronicarts/CnC_Red_Alert]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=N9ph6HD1bPQ
+1、项目名称：OpenManus - Manus开源实现
+- GitHub 链接：https://github.com/mannaandpoem/OpenManus
+2、项目名称：composio - AI Agent的工具集
+- GitHub 链接：https://github.com/ComposioHQ/composio
+3、项目名称：clay - 高性能2D UI 布局库
+- GitHub 链接：https://github.com/nicbarker/clay
+4、项目名称：SpacetimeDB -  高性能游戏数据库
+- GitHub 链接：https://github.com/clockworklabs/SpacetimeDB
+5、项目名称：CnC_Red_Alert - 红警系列游戏
+- GitHub 链接：https://github.com/electronicarts/CnC_Red_Alert]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=N9ph6HD1bPQ
+1、项目名称：OpenManus - Manus开源实现
+- GitHub 链接：https://github.com/mannaandpoem/OpenManus
+2、项目名称：composio - AI Agent的工具集
+- GitHub 链接：https://github.com/ComposioHQ/composio
+3、项目名称：clay - 高性能2D UI 布局库
+- GitHub 链接：https://github.com/nicbarker/clay
+4、项目名称：SpacetimeDB -  高性能游戏数据库
+- GitHub 链接：https://github.com/clockworklabs/SpacetimeDB
+5、项目名称：CnC_Red_Alert - 红警系列游戏
+- GitHub 链接：https://github.com/electronicarts/CnC_Red_Alert</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/N9ph6HD1bPQ/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250309-N9ph6HD1bPQ.mp3" type="audio/mpeg" length="486" />
+      <itunes:duration>486</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250309-N9ph6HD1bPQ.mp3</guid>
+      <pubDate>2025-03-09T04:00:06.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[3.7]比肩DeepSeekR1？开源QwQ-32B超长首发评测！加部署教程]]></title>
+      <itunes:title><![CDATA[3.7]比肩DeepSeekR1？开源QwQ-32B超长首发评测！加部署教程]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=p0cZkFj-97U
+今天是一期干货的模型部署实战。阿里开源了全新的推理模型通义千问QwQ-32B，既然是开源模型，我就来带大家尝个鲜也做下教程，咱们第一时间部署测试一下。]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=p0cZkFj-97U
+今天是一期干货的模型部署实战。阿里开源了全新的推理模型通义千问QwQ-32B，既然是开源模型，我就来带大家尝个鲜也做下教程，咱们第一时间部署测试一下。]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=p0cZkFj-97U
+今天是一期干货的模型部署实战。阿里开源了全新的推理模型通义千问QwQ-32B，既然是开源模型，我就来带大家尝个鲜也做下教程，咱们第一时间部署测试一下。</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/p0cZkFj-97U/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250307-p0cZkFj-97U.mp3" type="audio/mpeg" length="441" />
+      <itunes:duration>441</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250307-p0cZkFj-97U.mp3</guid>
+      <pubDate>2025-03-07T12:52:51.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[3.2]「Github一周热点63期」DeepSeek 开源周汇总 、超过Sora的万象2.1、AI数据分析库、Notion 替代品和AI 助手平台]]></title>
+      <itunes:title><![CDATA[3.2]「Github一周热点63期」DeepSeek 开源周汇总 、超过Sora的万象2.1、AI数据分析库、Notion 替代品和AI 助手平台]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=RzWyeJuJJgg
+1、项目名称：open-infra-index - DeepSeek 开源周
+- GitHub 链接：https://github.com/deepseek-ai/open-infra-index
+2、项目名称：wan2.1 - 超过Sora的万象2.1
+- GitHub 链接：https://github.com/Wan-Video/Wan2.1
+3、项目名称：pandas-ai - AI数据分析库
+- GitHub 链接：https://github.com/sinaptik-ai/pandas-ai
+4、项目名称：docmost - Notion 替代品
+- GitHub 链接：https://github.com/docmost/docmost
+5、项目名称：cherry-studio -  AI 助手平台
+- GitHub 链接：https://github.com/CherryHQ/cherry-studio]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=RzWyeJuJJgg
+1、项目名称：open-infra-index - DeepSeek 开源周
+- GitHub 链接：https://github.com/deepseek-ai/open-infra-index
+2、项目名称：wan2.1 - 超过Sora的万象2.1
+- GitHub 链接：https://github.com/Wan-Video/Wan2.1
+3、项目名称：pandas-ai - AI数据分析库
+- GitHub 链接：https://github.com/sinaptik-ai/pandas-ai
+4、项目名称：docmost - Notion 替代品
+- GitHub 链接：https://github.com/docmost/docmost
+5、项目名称：cherry-studio -  AI 助手平台
+- GitHub 链接：https://github.com/CherryHQ/cherry-studio]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=RzWyeJuJJgg
+1、项目名称：open-infra-index - DeepSeek 开源周
+- GitHub 链接：https://github.com/deepseek-ai/open-infra-index
+2、项目名称：wan2.1 - 超过Sora的万象2.1
+- GitHub 链接：https://github.com/Wan-Video/Wan2.1
+3、项目名称：pandas-ai - AI数据分析库
+- GitHub 链接：https://github.com/sinaptik-ai/pandas-ai
+4、项目名称：docmost - Notion 替代品
+- GitHub 链接：https://github.com/docmost/docmost
+5、项目名称：cherry-studio -  AI 助手平台
+- GitHub 链接：https://github.com/CherryHQ/cherry-studio</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/RzWyeJuJJgg/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250302-RzWyeJuJJgg.mp3" type="audio/mpeg" length="458" />
+      <itunes:duration>458</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250302-RzWyeJuJJgg.mp3</guid>
+      <pubDate>2025-03-02T04:22:36.000Z</pubDate>
+    </item></channel>
+</rss>
