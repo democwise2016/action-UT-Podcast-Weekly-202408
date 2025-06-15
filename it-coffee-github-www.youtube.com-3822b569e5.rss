@@ -30,6 +30,52 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s120-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[6.15]「Github一周热点75期」windows桌面增强工具、健康学习到150岁 、实用网页工具集合、优秀大模型 APP集合和 浏览器编排工具]]></title>
+      <itunes:title><![CDATA[6.15]「Github一周热点75期」windows桌面增强工具、健康学习到150岁 、实用网页工具集合、优秀大模型 APP集合和 浏览器编排工具]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=Hqdbzu2n-N4
+1、项目名称：Seelen-UI - windows桌面增强工具
+- GitHub 链接：https://github.com/eythaann/Seelen-UI
+2、项目名称：HumanSystemOptimization - 健康学习到150岁 
+- GitHub 链接：https://github.com/zijie0/HumanSystemOptimization
+3、项目名称：omni-tools -  网页工具集合
+- GitHub 链接：https://github.com/iib0011/omni-tools
+4、项目名称：awesome-llm-apps - 优秀大模型 APP集合
+- GitHub 链接：https://github.com/Shubhamsaboo/awesome-llm-apps
+5、项目名称：donutbrowser -  浏览器编排工具
+- GitHub 链接：https://github.com/zhom/donutbrowser]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=Hqdbzu2n-N4
+1、项目名称：Seelen-UI - windows桌面增强工具
+- GitHub 链接：https://github.com/eythaann/Seelen-UI
+2、项目名称：HumanSystemOptimization - 健康学习到150岁 
+- GitHub 链接：https://github.com/zijie0/HumanSystemOptimization
+3、项目名称：omni-tools -  网页工具集合
+- GitHub 链接：https://github.com/iib0011/omni-tools
+4、项目名称：awesome-llm-apps - 优秀大模型 APP集合
+- GitHub 链接：https://github.com/Shubhamsaboo/awesome-llm-apps
+5、项目名称：donutbrowser -  浏览器编排工具
+- GitHub 链接：https://github.com/zhom/donutbrowser]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=Hqdbzu2n-N4
+1、项目名称：Seelen-UI - windows桌面增强工具
+- GitHub 链接：https://github.com/eythaann/Seelen-UI
+2、项目名称：HumanSystemOptimization - 健康学习到150岁 
+- GitHub 链接：https://github.com/zijie0/HumanSystemOptimization
+3、项目名称：omni-tools -  网页工具集合
+- GitHub 链接：https://github.com/iib0011/omni-tools
+4、项目名称：awesome-llm-apps - 优秀大模型 APP集合
+- GitHub 链接：https://github.com/Shubhamsaboo/awesome-llm-apps
+5、项目名称：donutbrowser -  浏览器编排工具
+- GitHub 链接：https://github.com/zhom/donutbrowser</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/Hqdbzu2n-N4/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250615-Hqdbzu2n-N4.mp3" type="audio/mpeg" length="293" />
+      <itunes:duration>293</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250615-Hqdbzu2n-N4.mp3</guid>
+      <pubDate>2025-06-15T03:24:42.000Z</pubDate>
+    </item><item>
       <title><![CDATA[6.8]「Github一周热点74期」设计师专属的 Cursor、Python爬虫框架、提示词工程的交互式教程、Markdown排版工具和电子邮件营销平台]]></title>
       <itunes:title><![CDATA[6.8]「Github一周热点74期」设计师专属的 Cursor、Python爬虫框架、提示词工程的交互式教程、Markdown排版工具和电子邮件营销平台]]></itunes:title>
       <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
@@ -565,51 +611,5 @@ GitHub 一周热点第73期(2025/05/25 - 5/31），本期内容包括本地manus
       <itunes:duration>441</itunes:duration>
       <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250307-p0cZkFj-97U.mp3</guid>
       <pubDate>2025-03-07T12:52:51.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[3.2]「Github一周热点63期」DeepSeek 开源周汇总 、超过Sora的万象2.1、AI数据分析库、Notion 替代品和AI 助手平台]]></title>
-      <itunes:title><![CDATA[3.2]「Github一周热点63期」DeepSeek 开源周汇总 、超过Sora的万象2.1、AI数据分析库、Notion 替代品和AI 助手平台]]></itunes:title>
-      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[https://www.youtube.com/watch?v=RzWyeJuJJgg
-1、项目名称：open-infra-index - DeepSeek 开源周
-- GitHub 链接：https://github.com/deepseek-ai/open-infra-index
-2、项目名称：wan2.1 - 超过Sora的万象2.1
-- GitHub 链接：https://github.com/Wan-Video/Wan2.1
-3、项目名称：pandas-ai - AI数据分析库
-- GitHub 链接：https://github.com/sinaptik-ai/pandas-ai
-4、项目名称：docmost - Notion 替代品
-- GitHub 链接：https://github.com/docmost/docmost
-5、项目名称：cherry-studio -  AI 助手平台
-- GitHub 链接：https://github.com/CherryHQ/cherry-studio]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[https://www.youtube.com/watch?v=RzWyeJuJJgg
-1、项目名称：open-infra-index - DeepSeek 开源周
-- GitHub 链接：https://github.com/deepseek-ai/open-infra-index
-2、项目名称：wan2.1 - 超过Sora的万象2.1
-- GitHub 链接：https://github.com/Wan-Video/Wan2.1
-3、项目名称：pandas-ai - AI数据分析库
-- GitHub 链接：https://github.com/sinaptik-ai/pandas-ai
-4、项目名称：docmost - Notion 替代品
-- GitHub 链接：https://github.com/docmost/docmost
-5、项目名称：cherry-studio -  AI 助手平台
-- GitHub 链接：https://github.com/CherryHQ/cherry-studio]]>
-      </description>
-      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=RzWyeJuJJgg
-1、项目名称：open-infra-index - DeepSeek 开源周
-- GitHub 链接：https://github.com/deepseek-ai/open-infra-index
-2、项目名称：wan2.1 - 超过Sora的万象2.1
-- GitHub 链接：https://github.com/Wan-Video/Wan2.1
-3、项目名称：pandas-ai - AI数据分析库
-- GitHub 链接：https://github.com/sinaptik-ai/pandas-ai
-4、项目名称：docmost - Notion 替代品
-- GitHub 链接：https://github.com/docmost/docmost
-5、项目名称：cherry-studio -  AI 助手平台
-- GitHub 链接：https://github.com/CherryHQ/cherry-studio</pre>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/RzWyeJuJJgg/hqdefault.jpg"/>
-      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250302-RzWyeJuJJgg.mp3" type="audio/mpeg" length="458" />
-      <itunes:duration>458</itunes:duration>
-      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250302-RzWyeJuJJgg.mp3</guid>
-      <pubDate>2025-03-02T04:22:36.000Z</pubDate>
     </item></channel>
 </rss>
