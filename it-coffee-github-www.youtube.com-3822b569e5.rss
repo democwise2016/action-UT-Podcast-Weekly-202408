@@ -30,6 +30,52 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s120-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[6.21]「Github一周热点76期」工作流自动化工具、开源AI知识库系统、网络管理平台、AI驱动的任务管理系统和基于web的3D CAD]]></title>
+      <itunes:title><![CDATA[6.21]「Github一周热点76期」工作流自动化工具、开源AI知识库系统、网络管理平台、AI驱动的任务管理系统和基于web的3D CAD]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=wx8GElmdN9k
+1、项目名称：automatisch - 工作流程自动化
+- GitHub 链接：https://github.com/automatisch/automatisch
+2、项目名称：PandaWiki - 开源知识库系统
+- GitHub 链接：https://github.com/chaitin/PandaWiki
+3、项目名称：netbird -  网络管理平台
+- GitHub 链接：https://github.com/netbirdio/netbird
+4、项目名称：claude-task-master - AI驱动的任务管理系统
+- GitHub 链接：https://github.com/eyaltoledano/claude-task-master
+5、项目名称：chili3d -  基于web的3D CAD
+- GitHub 链接：https://github.com/xiangechen/chili3d]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=wx8GElmdN9k
+1、项目名称：automatisch - 工作流程自动化
+- GitHub 链接：https://github.com/automatisch/automatisch
+2、项目名称：PandaWiki - 开源知识库系统
+- GitHub 链接：https://github.com/chaitin/PandaWiki
+3、项目名称：netbird -  网络管理平台
+- GitHub 链接：https://github.com/netbirdio/netbird
+4、项目名称：claude-task-master - AI驱动的任务管理系统
+- GitHub 链接：https://github.com/eyaltoledano/claude-task-master
+5、项目名称：chili3d -  基于web的3D CAD
+- GitHub 链接：https://github.com/xiangechen/chili3d]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=wx8GElmdN9k
+1、项目名称：automatisch - 工作流程自动化
+- GitHub 链接：https://github.com/automatisch/automatisch
+2、项目名称：PandaWiki - 开源知识库系统
+- GitHub 链接：https://github.com/chaitin/PandaWiki
+3、项目名称：netbird -  网络管理平台
+- GitHub 链接：https://github.com/netbirdio/netbird
+4、项目名称：claude-task-master - AI驱动的任务管理系统
+- GitHub 链接：https://github.com/eyaltoledano/claude-task-master
+5、项目名称：chili3d -  基于web的3D CAD
+- GitHub 链接：https://github.com/xiangechen/chili3d</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/wx8GElmdN9k/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250621-wx8GElmdN9k.mp3" type="audio/mpeg" length="333" />
+      <itunes:duration>333</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250621-wx8GElmdN9k.mp3</guid>
+      <pubDate>2025-06-21T11:03:08.000Z</pubDate>
+    </item><item>
       <title><![CDATA[6.15]「Github一周热点75期」windows桌面增强工具、健康学习到150岁 、实用网页工具集合、优秀大模型 APP集合和 浏览器编排工具]]></title>
       <itunes:title><![CDATA[6.15]「Github一周热点75期」windows桌面增强工具、健康学习到150岁 、实用网页工具集合、优秀大模型 APP集合和 浏览器编排工具]]></itunes:title>
       <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
@@ -592,24 +638,5 @@ GitHub 一周热点第73期(2025/05/25 - 5/31），本期内容包括本地manus
       <itunes:duration>486</itunes:duration>
       <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250309-N9ph6HD1bPQ.mp3</guid>
       <pubDate>2025-03-09T04:00:06.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[3.7]比肩DeepSeekR1？开源QwQ-32B超长首发评测！加部署教程]]></title>
-      <itunes:title><![CDATA[3.7]比肩DeepSeekR1？开源QwQ-32B超长首发评测！加部署教程]]></itunes:title>
-      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[https://www.youtube.com/watch?v=p0cZkFj-97U
-今天是一期干货的模型部署实战。阿里开源了全新的推理模型通义千问QwQ-32B，既然是开源模型，我就来带大家尝个鲜也做下教程，咱们第一时间部署测试一下。]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[https://www.youtube.com/watch?v=p0cZkFj-97U
-今天是一期干货的模型部署实战。阿里开源了全新的推理模型通义千问QwQ-32B，既然是开源模型，我就来带大家尝个鲜也做下教程，咱们第一时间部署测试一下。]]>
-      </description>
-      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=p0cZkFj-97U
-今天是一期干货的模型部署实战。阿里开源了全新的推理模型通义千问QwQ-32B，既然是开源模型，我就来带大家尝个鲜也做下教程，咱们第一时间部署测试一下。</pre>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/p0cZkFj-97U/hqdefault.jpg"/>
-      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250307-p0cZkFj-97U.mp3" type="audio/mpeg" length="441" />
-      <itunes:duration>441</itunes:duration>
-      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250307-p0cZkFj-97U.mp3</guid>
-      <pubDate>2025-03-07T12:52:51.000Z</pubDate>
     </item></channel>
 </rss>
