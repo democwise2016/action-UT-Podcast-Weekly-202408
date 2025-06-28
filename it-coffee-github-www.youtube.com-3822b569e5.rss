@@ -30,6 +30,52 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s120-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[6.28]「Github一周热点77期」AI工具背后的提示词，一体化项目管理工具、终端模拟器、LaTeX替代和备份工具]]></title>
+      <itunes:title><![CDATA[6.28]「Github一周热点77期」AI工具背后的提示词，一体化项目管理工具、终端模拟器、LaTeX替代和备份工具]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=NioVrC1zYv8
+1、项目名称：system-prompts-and-models-of-ai-tools - AI工具背后的提示词
+- GitHub 链接：https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+2、项目名称：worklenz - 一体化项目管理工具
+- GitHub 链接：https://github.com/Worklenz/worklenz
+3、项目名称：ghostty -  终端模拟器
+- GitHub 链接：https://github.com/ghostty-org/ghostty
+4、项目名称：typst - LaTeX替代
+- GitHub 链接：https://github.com/typst/typst
+5、项目名称：kopia -  备份工具
+- GitHub 链接：https://github.com/kopia/kopia/]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=NioVrC1zYv8
+1、项目名称：system-prompts-and-models-of-ai-tools - AI工具背后的提示词
+- GitHub 链接：https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+2、项目名称：worklenz - 一体化项目管理工具
+- GitHub 链接：https://github.com/Worklenz/worklenz
+3、项目名称：ghostty -  终端模拟器
+- GitHub 链接：https://github.com/ghostty-org/ghostty
+4、项目名称：typst - LaTeX替代
+- GitHub 链接：https://github.com/typst/typst
+5、项目名称：kopia -  备份工具
+- GitHub 链接：https://github.com/kopia/kopia/]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=NioVrC1zYv8
+1、项目名称：system-prompts-and-models-of-ai-tools - AI工具背后的提示词
+- GitHub 链接：https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+2、项目名称：worklenz - 一体化项目管理工具
+- GitHub 链接：https://github.com/Worklenz/worklenz
+3、项目名称：ghostty -  终端模拟器
+- GitHub 链接：https://github.com/ghostty-org/ghostty
+4、项目名称：typst - LaTeX替代
+- GitHub 链接：https://github.com/typst/typst
+5、项目名称：kopia -  备份工具
+- GitHub 链接：https://github.com/kopia/kopia/</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/NioVrC1zYv8/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250628-NioVrC1zYv8.mp3" type="audio/mpeg" length="307" />
+      <itunes:duration>307</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250628-NioVrC1zYv8.mp3</guid>
+      <pubDate>2025-06-28T08:30:43.000Z</pubDate>
+    </item><item>
       <title><![CDATA[6.21]「Github一周热点76期」工作流自动化工具、开源AI知识库系统、网络管理平台、AI驱动的任务管理系统和基于web的3D CAD]]></title>
       <itunes:title><![CDATA[6.21]「Github一周热点76期」工作流自动化工具、开源AI知识库系统、网络管理平台、AI驱动的任务管理系统和基于web的3D CAD]]></itunes:title>
       <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
@@ -592,51 +638,5 @@ GitHub 一周热点第73期(2025/05/25 - 5/31），本期内容包括本地manus
       <itunes:duration>531</itunes:duration>
       <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250315-wk3tZLB3SDQ.mp3</guid>
       <pubDate>2025-03-15T06:54:26.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[3.9]「Github一周热点64期」Manus开源实现仅用5人3小时？含金量如何]]></title>
-      <itunes:title><![CDATA[3.9]「Github一周热点64期」Manus开源实现仅用5人3小时？含金量如何]]></itunes:title>
-      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[https://www.youtube.com/watch?v=N9ph6HD1bPQ
-1、项目名称：OpenManus - Manus开源实现
-- GitHub 链接：https://github.com/mannaandpoem/OpenManus
-2、项目名称：composio - AI Agent的工具集
-- GitHub 链接：https://github.com/ComposioHQ/composio
-3、项目名称：clay - 高性能2D UI 布局库
-- GitHub 链接：https://github.com/nicbarker/clay
-4、项目名称：SpacetimeDB -  高性能游戏数据库
-- GitHub 链接：https://github.com/clockworklabs/SpacetimeDB
-5、项目名称：CnC_Red_Alert - 红警系列游戏
-- GitHub 链接：https://github.com/electronicarts/CnC_Red_Alert]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[https://www.youtube.com/watch?v=N9ph6HD1bPQ
-1、项目名称：OpenManus - Manus开源实现
-- GitHub 链接：https://github.com/mannaandpoem/OpenManus
-2、项目名称：composio - AI Agent的工具集
-- GitHub 链接：https://github.com/ComposioHQ/composio
-3、项目名称：clay - 高性能2D UI 布局库
-- GitHub 链接：https://github.com/nicbarker/clay
-4、项目名称：SpacetimeDB -  高性能游戏数据库
-- GitHub 链接：https://github.com/clockworklabs/SpacetimeDB
-5、项目名称：CnC_Red_Alert - 红警系列游戏
-- GitHub 链接：https://github.com/electronicarts/CnC_Red_Alert]]>
-      </description>
-      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=N9ph6HD1bPQ
-1、项目名称：OpenManus - Manus开源实现
-- GitHub 链接：https://github.com/mannaandpoem/OpenManus
-2、项目名称：composio - AI Agent的工具集
-- GitHub 链接：https://github.com/ComposioHQ/composio
-3、项目名称：clay - 高性能2D UI 布局库
-- GitHub 链接：https://github.com/nicbarker/clay
-4、项目名称：SpacetimeDB -  高性能游戏数据库
-- GitHub 链接：https://github.com/clockworklabs/SpacetimeDB
-5、项目名称：CnC_Red_Alert - 红警系列游戏
-- GitHub 链接：https://github.com/electronicarts/CnC_Red_Alert</pre>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/N9ph6HD1bPQ/hqdefault.jpg"/>
-      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250309-N9ph6HD1bPQ.mp3" type="audio/mpeg" length="486" />
-      <itunes:duration>486</itunes:duration>
-      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250309-N9ph6HD1bPQ.mp3</guid>
-      <pubDate>2025-03-09T04:00:06.000Z</pubDate>
     </item></channel>
 </rss>
