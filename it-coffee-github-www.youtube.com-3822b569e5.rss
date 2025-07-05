@@ -30,6 +30,52 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s120-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[7.5]「Github一周热点78期」2D 内容创作工具、网络安全知识库、JavaScript 3D 引擎、命令行的文本编辑器和个人图书馆。]]></title>
+      <itunes:title><![CDATA[7.5]「Github一周热点78期」2D 内容创作工具、网络安全知识库、JavaScript 3D 引擎、命令行的文本编辑器和个人图书馆。]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=mVAKTVT9n1M
+1、项目名称：Graphite - 2D 内容创作工具
+- GitHub 链接：https://github.com/GraphiteEditor/Graphite
+2、项目名称：PayloadsAllTheThings - 网络安全知识库
+- GitHub 链接：https://github.com/swisskyrepo/PayloadsAllTheThings
+3、项目名称：three.js -   JavaScript 3D 引擎
+- GitHub 链接：https://github.com/mrdoob/three.js
+4、项目名称：edit - 命令行文本编辑器
+- GitHub 链接：https://github.com/microsoft/edit
+5、项目名称：BookLore -  个人图书馆
+- GitHub 链接：https://github.com/adityachandelgit/BookLore]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=mVAKTVT9n1M
+1、项目名称：Graphite - 2D 内容创作工具
+- GitHub 链接：https://github.com/GraphiteEditor/Graphite
+2、项目名称：PayloadsAllTheThings - 网络安全知识库
+- GitHub 链接：https://github.com/swisskyrepo/PayloadsAllTheThings
+3、项目名称：three.js -   JavaScript 3D 引擎
+- GitHub 链接：https://github.com/mrdoob/three.js
+4、项目名称：edit - 命令行文本编辑器
+- GitHub 链接：https://github.com/microsoft/edit
+5、项目名称：BookLore -  个人图书馆
+- GitHub 链接：https://github.com/adityachandelgit/BookLore]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=mVAKTVT9n1M
+1、项目名称：Graphite - 2D 内容创作工具
+- GitHub 链接：https://github.com/GraphiteEditor/Graphite
+2、项目名称：PayloadsAllTheThings - 网络安全知识库
+- GitHub 链接：https://github.com/swisskyrepo/PayloadsAllTheThings
+3、项目名称：three.js -   JavaScript 3D 引擎
+- GitHub 链接：https://github.com/mrdoob/three.js
+4、项目名称：edit - 命令行文本编辑器
+- GitHub 链接：https://github.com/microsoft/edit
+5、项目名称：BookLore -  个人图书馆
+- GitHub 链接：https://github.com/adityachandelgit/BookLore</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/mVAKTVT9n1M/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250705-mVAKTVT9n1M.mp3" type="audio/mpeg" length="308" />
+      <itunes:duration>308</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250705-mVAKTVT9n1M.mp3</guid>
+      <pubDate>2025-07-05T08:44:21.000Z</pubDate>
+    </item><item>
       <title><![CDATA[6.28]「Github一周热点77期」AI工具背后的提示词，一体化项目管理工具、终端模拟器、LaTeX替代和备份工具]]></title>
       <itunes:title><![CDATA[6.28]「Github一周热点77期」AI工具背后的提示词，一体化项目管理工具、终端模拟器、LaTeX替代和备份工具]]></itunes:title>
       <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
@@ -592,51 +638,5 @@ GitHub 一周热点第73期(2025/05/25 - 5/31），本期内容包括本地manus
       <itunes:duration>496</itunes:duration>
       <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250321-VAldQMAgU4w.mp3</guid>
       <pubDate>2025-03-21T09:26:54.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[3.15]「Github一周热点65期」OpenAI的Agent开发工具，开源视频生成模型，MCP server合集，shell 连接中心和多智能体量化交易]]></title>
-      <itunes:title><![CDATA[3.15]「Github一周热点65期」OpenAI的Agent开发工具，开源视频生成模型，MCP server合集，shell 连接中心和多智能体量化交易]]></itunes:title>
-      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[https://www.youtube.com/watch?v=wk3tZLB3SDQ
-1、项目名称：openai-agents-python - OpenAI的Agent开发工具
-- GitHub 链接：https://github.com/openai/openai-agents-python
-2、项目名称：open-sora - 开源视频生成模型
-- GitHub 链接：https://github.com/hpcaitech/Open-Sora
-3、项目名称：awesome-mcp-servers - MCP server合集
-- GitHub 链接：https://github.com/punkpeye/awesome-mcp-servers
-4、项目名称：xpipe -  shell 连接中心
-- GitHub 链接：https://github.com/xpipe-io/xpipe
-5、项目名称：ai-hedge-fund - 多智能体量化交易
-- GitHub 链接：https://github.com/virattt/ai-hedge-fund]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[https://www.youtube.com/watch?v=wk3tZLB3SDQ
-1、项目名称：openai-agents-python - OpenAI的Agent开发工具
-- GitHub 链接：https://github.com/openai/openai-agents-python
-2、项目名称：open-sora - 开源视频生成模型
-- GitHub 链接：https://github.com/hpcaitech/Open-Sora
-3、项目名称：awesome-mcp-servers - MCP server合集
-- GitHub 链接：https://github.com/punkpeye/awesome-mcp-servers
-4、项目名称：xpipe -  shell 连接中心
-- GitHub 链接：https://github.com/xpipe-io/xpipe
-5、项目名称：ai-hedge-fund - 多智能体量化交易
-- GitHub 链接：https://github.com/virattt/ai-hedge-fund]]>
-      </description>
-      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=wk3tZLB3SDQ
-1、项目名称：openai-agents-python - OpenAI的Agent开发工具
-- GitHub 链接：https://github.com/openai/openai-agents-python
-2、项目名称：open-sora - 开源视频生成模型
-- GitHub 链接：https://github.com/hpcaitech/Open-Sora
-3、项目名称：awesome-mcp-servers - MCP server合集
-- GitHub 链接：https://github.com/punkpeye/awesome-mcp-servers
-4、项目名称：xpipe -  shell 连接中心
-- GitHub 链接：https://github.com/xpipe-io/xpipe
-5、项目名称：ai-hedge-fund - 多智能体量化交易
-- GitHub 链接：https://github.com/virattt/ai-hedge-fund</pre>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/wk3tZLB3SDQ/hqdefault.jpg"/>
-      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250315-wk3tZLB3SDQ.mp3" type="audio/mpeg" length="531" />
-      <itunes:duration>531</itunes:duration>
-      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20250315-wk3tZLB3SDQ.mp3</guid>
-      <pubDate>2025-03-15T06:54:26.000Z</pubDate>
     </item></channel>
 </rss>
