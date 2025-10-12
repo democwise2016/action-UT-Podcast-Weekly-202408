@@ -19,7 +19,10 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA',
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
-    ]
+    ],
+    options: {
+      maxItems: 10
+    }
   },
   // {
   //   title: '黃國昌直播',
@@ -41,6 +44,9 @@ let feedList = [
       ItemFiltersPreset.between3minTo30Min,
       (item) => { return ((item.title.indexOf('粉紅特報') >-1)) }
     ],
+    options: {
+      maxItems: 10
+    }
   },
   {
     title: '小鄭在日本',
@@ -49,6 +55,9 @@ let feedList = [
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min
     ],
+    options: {
+      maxItems: 10
+    }
   },
   {
     title: '阿先說故事',
@@ -64,7 +73,10 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCuHHKbwC0TWjeqxbqdO-N_g',
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
-    ]
+    ],
+    options: {
+      maxItems: 10
+    }
   },
   {
     title: '我是RT',
@@ -72,6 +84,9 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCcG2HsNjnAbWOT6E1DRxjGA',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+    options: {
+      maxItems: 10
+    }
   {
     title: 'Kuma桑',
     feedID: 'kumasan0720',
@@ -79,6 +94,9 @@ let feedList = [
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
     ],
+    options: {
+      maxItems: 10
+    }
   },
   {
     title: '狐狸牧場 foxranch',
@@ -87,6 +105,9 @@ let feedList = [
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
     ],
+    options: {
+      maxItems: 10
+    }
   },
   {
     title: '赤狐與毛',
@@ -95,6 +116,9 @@ let feedList = [
     itemFilters: [
       ItemFiltersPreset.between10minTo60Min,
     ],
+    options: {
+      maxItems: 10
+    }
   },
   {
     title: '真觀點 談政治',
@@ -103,6 +127,9 @@ let feedList = [
     itemFilters: [
       ItemFiltersPreset.between10minTo60Min,
     ],
+    options: {
+      maxItems: 10
+    }
   },
   // {
   //   title: '35線上賞屋',
@@ -139,6 +166,9 @@ let feedList = [
       ItemFiltersPreset.between3minTo30Min,
       (item) => { return ((item.title.indexOf('電玩買蝦款') >-1)) }
     ],
+    options: {
+      maxItems: 10
+    }
   },
   {
     title: '苗博雅 臺北百科全書精華',
@@ -148,6 +178,9 @@ let feedList = [
       (item) => { return ((item.title.indexOf('臺北百科全書精華') >-1)) },
       ItemFiltersPreset.between3minTo30Min,
     ],
+    options: {
+      maxItems: 10
+    }
   },
   {
     title: 'IT咖啡馆: GitHub軟體介紹',
@@ -156,6 +189,9 @@ let feedList = [
     itemFilters: [
       ItemFiltersPreset.between3minTo30Min,
     ],
+    options: {
+      maxItems: 10
+    }
   },
 ]
 
