@@ -83,10 +83,10 @@ let feedList = [
     feedID: 'RTisme',
     homepageURL: 'https://www.youtube.com/channel/UCcG2HsNjnAbWOT6E1DRxjGA',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
     options: {
       maxItems: 10
     }
+  },
   {
     title: 'Kuma桑',
     feedID: 'kumasan0720',
