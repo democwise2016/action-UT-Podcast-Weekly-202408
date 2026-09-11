@@ -1,0 +1,511 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></title>
+    <link>https://www.youtube.com/@it-coffee</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s1024-b50-c-k-c0x0040F99B-no-rj</url>
+      <title>IT咖啡馆: GitHub軟體介紹 [UT]</title>
+      <link>https://www.youtube.com/@it-coffee</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></copyright>
+    <itunes:author><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw</a>LINK<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/channel/UCXLV-KfDQAFUJ_as9H1Lfbw</a>LINK<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCXLV-KfDQAFUJ_as9H1Lfbw</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[IT咖啡馆: GitHub軟體介紹 [UT]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/zLn0KVjTfFT-kUHf-jvIjtIPMjABiGlFJYNBMxrgUHpPU6CCyCDBffz2BYsDMgBYu54QQCKY=s1024-b50-c-k-c0x0040F99B-no-rj"/>
+<item>
+      <title><![CDATA[8.29]「Github一周热点129期」一间agent的办公室、GPT-Image-2提示词、Codex Harness、Apache本地工作台和免费模型路由]]></title>
+      <itunes:title><![CDATA[8.29]「Github一周热点129期」一间agent的办公室、GPT-Image-2提示词、Codex Harness、Apache本地工作台和免费模型路由]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=KDz1RpudZ1o
+1、项目名称：munder-difflin - 一间 Agent 组成的办公室
+GitHub 链接：https://github.com/chaitanyagiri/munder-difflin
+2、项目名称：awesome-gpt-image-2 - GPT-Image-2 提示词案例、模板和 Agent Skill
+GitHub 链接：https://github.com/freestylefly/awesome-gpt-image-2
+3、项目名称：codex - OpenAI 的开放智能体框架
+GitHub 链接：https://github.com/openai/codex
+4、项目名称：maka - Apache 的本地优先 AI Agent 工作台
+GitHub 链接：https://github.com/apache/maka
+5、项目名称：freellmapi - 免费模型资源聚合路由
+GitHub 链接：https://github.com/tashfeenahmed/freellmapi]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=KDz1RpudZ1o
+1、项目名称：munder-difflin - 一间 Agent 组成的办公室
+GitHub 链接：https://github.com/chaitanyagiri/munder-difflin
+2、项目名称：awesome-gpt-image-2 - GPT-Image-2 提示词案例、模板和 Agent Skill
+GitHub 链接：https://github.com/freestylefly/awesome-gpt-image-2
+3、项目名称：codex - OpenAI 的开放智能体框架
+GitHub 链接：https://github.com/openai/codex
+4、项目名称：maka - Apache 的本地优先 AI Agent 工作台
+GitHub 链接：https://github.com/apache/maka
+5、项目名称：freellmapi - 免费模型资源聚合路由
+GitHub 链接：https://github.com/tashfeenahmed/freellmapi]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=KDz1RpudZ1o
+1、项目名称：munder-difflin - 一间 Agent 组成的办公室
+GitHub 链接：https://github.com/chaitanyagiri/munder-difflin
+2、项目名称：awesome-gpt-image-2 - GPT-Image-2 提示词案例、模板和 Agent Skill
+GitHub 链接：https://github.com/freestylefly/awesome-gpt-image-2
+3、项目名称：codex - OpenAI 的开放智能体框架
+GitHub 链接：https://github.com/openai/codex
+4、项目名称：maka - Apache 的本地优先 AI Agent 工作台
+GitHub 链接：https://github.com/apache/maka
+5、项目名称：freellmapi - 免费模型资源聚合路由
+GitHub 链接：https://github.com/tashfeenahmed/freellmapi</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/KDz1RpudZ1o/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260829-KDz1RpudZ1o.mp3" type="audio/mpeg" length="466" />
+      <itunes:duration>466</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260829-KDz1RpudZ1o.mp3</guid>
+      <pubDate>2026-08-29T09:07:01.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[8.22]「Github一周热点128期」图片生成3D模型、现代化Linux、Mac优化的本地模型推理、模型智能路由和端侧小模型]]></title>
+      <itunes:title><![CDATA[8.22]「Github一周热点128期」图片生成3D模型、现代化Linux、Mac优化的本地模型推理、模型智能路由和端侧小模型]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=rLymrqM9vCI
+1、项目名称：img2threejs - 基于参考图生成 Three.js 3D 模型
+GitHub 链接：https://github.com/img2threejs/img2threejs
+2、项目名称：omarchy - 现代化 Linux 发行版
+GitHub 链接：https://github.com/basecamp/omarchy
+3、项目名称：omlx - 为 Mac 优化的 LLM 推理工具
+GitHub 链接：https://github.com/jundot/omlx
+4、项目名称：Switchyard - 大模型路由工具
+GitHub 链接：https://github.com/NVIDIA-NeMo/Switchyard
+5、项目名称：needle - 端侧的超小型工具调用模型
+GitHub 链接：https://github.com/cactus-compute/needle]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=rLymrqM9vCI
+1、项目名称：img2threejs - 基于参考图生成 Three.js 3D 模型
+GitHub 链接：https://github.com/img2threejs/img2threejs
+2、项目名称：omarchy - 现代化 Linux 发行版
+GitHub 链接：https://github.com/basecamp/omarchy
+3、项目名称：omlx - 为 Mac 优化的 LLM 推理工具
+GitHub 链接：https://github.com/jundot/omlx
+4、项目名称：Switchyard - 大模型路由工具
+GitHub 链接：https://github.com/NVIDIA-NeMo/Switchyard
+5、项目名称：needle - 端侧的超小型工具调用模型
+GitHub 链接：https://github.com/cactus-compute/needle]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=rLymrqM9vCI
+1、项目名称：img2threejs - 基于参考图生成 Three.js 3D 模型
+GitHub 链接：https://github.com/img2threejs/img2threejs
+2、项目名称：omarchy - 现代化 Linux 发行版
+GitHub 链接：https://github.com/basecamp/omarchy
+3、项目名称：omlx - 为 Mac 优化的 LLM 推理工具
+GitHub 链接：https://github.com/jundot/omlx
+4、项目名称：Switchyard - 大模型路由工具
+GitHub 链接：https://github.com/NVIDIA-NeMo/Switchyard
+5、项目名称：needle - 端侧的超小型工具调用模型
+GitHub 链接：https://github.com/cactus-compute/needle</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/rLymrqM9vCI/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260822-rLymrqM9vCI.mp3" type="audio/mpeg" length="433" />
+      <itunes:duration>433</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260822-rLymrqM9vCI.mp3</guid>
+      <pubDate>2026-08-22T05:23:16.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[8.15]「Github一周热点127期」DeepSeek Agent Harness、AI画图Skill、自进化编程Agent、团队工作台和可审计语义图谱]]></title>
+      <itunes:title><![CDATA[8.15]「Github一周热点127期」DeepSeek Agent Harness、AI画图Skill、自进化编程Agent、团队工作台和可审计语义图谱]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=TY4JQhwEm1s
+1、项目名称：deepseek-harness - DeepSeek 开源的 Agent Harness
+GitHub 链接：https://github.com/deepseek-ai/deepseek-harness
+2、项目名称：diagram-design - 给 AI Agent 使用的出版级图表设计 Skill
+GitHub 链接：https://github.com/cathrynlavery/diagram-design
+3、项目名称：prime-agent - Prime Intellect 开源的自进化 RLM 编程与研究 Agent
+GitHub 链接：https://github.com/PrimeIntellect-ai/prime-agent
+4、项目名称：macro - 开源团队工作台与团队级记忆系统
+GitHub 链接：https://github.com/macro-inc/macro
+5、项目名称：semantica - 面向可审计 AI 系统的语义图谱基础设施
+GitHub 链接：https://github.com/semantica-agi/semantica]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=TY4JQhwEm1s
+1、项目名称：deepseek-harness - DeepSeek 开源的 Agent Harness
+GitHub 链接：https://github.com/deepseek-ai/deepseek-harness
+2、项目名称：diagram-design - 给 AI Agent 使用的出版级图表设计 Skill
+GitHub 链接：https://github.com/cathrynlavery/diagram-design
+3、项目名称：prime-agent - Prime Intellect 开源的自进化 RLM 编程与研究 Agent
+GitHub 链接：https://github.com/PrimeIntellect-ai/prime-agent
+4、项目名称：macro - 开源团队工作台与团队级记忆系统
+GitHub 链接：https://github.com/macro-inc/macro
+5、项目名称：semantica - 面向可审计 AI 系统的语义图谱基础设施
+GitHub 链接：https://github.com/semantica-agi/semantica]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=TY4JQhwEm1s
+1、项目名称：deepseek-harness - DeepSeek 开源的 Agent Harness
+GitHub 链接：https://github.com/deepseek-ai/deepseek-harness
+2、项目名称：diagram-design - 给 AI Agent 使用的出版级图表设计 Skill
+GitHub 链接：https://github.com/cathrynlavery/diagram-design
+3、项目名称：prime-agent - Prime Intellect 开源的自进化 RLM 编程与研究 Agent
+GitHub 链接：https://github.com/PrimeIntellect-ai/prime-agent
+4、项目名称：macro - 开源团队工作台与团队级记忆系统
+GitHub 链接：https://github.com/macro-inc/macro
+5、项目名称：semantica - 面向可审计 AI 系统的语义图谱基础设施
+GitHub 链接：https://github.com/semantica-agi/semantica</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/TY4JQhwEm1s/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260815-TY4JQhwEm1s.mp3" type="audio/mpeg" length="506" />
+      <itunes:duration>506</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260815-TY4JQhwEm1s.mp3</guid>
+      <pubDate>2026-08-15T05:44:51.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[8.8]「Github一周热点126期」MiniMax全模态视频模型、PDF解析、团队Agent记忆、低显存跑大模型、逆向工程Skill]]></title>
+      <itunes:title><![CDATA[8.8]「Github一周热点126期」MiniMax全模态视频模型、PDF解析、团队Agent记忆、低显存跑大模型、逆向工程Skill]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=yEQfbuFT3B0
+1、项目名称：MiniMax-H3 - MiniMax 开源的全模态音视频生成模型
+HuggingFace 链接：https://github.com/MiniMax-AI/MiniMax-H3
+2、项目名称：pdf-inspector - Firecrawl 开源的快速 PDF 分类与抽取工具
+GitHub 链接：https://github.com/firecrawl/pdf-inspector
+3、项目名称：AirLLM - 低显存运行大模型的推理工具
+GitHub 链接：https://github.com/lyogavin/airllm
+4、项目名称：reverse-skill - 面向逆向和安全研究的 Skill 路由包
+GitHub 链接：https://github.com/zhaoxuya520/reverse-skill
+5、项目名称：TencentDB-Agent-Memory - 腾讯云开源的团队级 Agent 记忆系统
+GitHub 链接：https://github.com/TencentCloud/TencentDB-Agent-Memory]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=yEQfbuFT3B0
+1、项目名称：MiniMax-H3 - MiniMax 开源的全模态音视频生成模型
+HuggingFace 链接：https://github.com/MiniMax-AI/MiniMax-H3
+2、项目名称：pdf-inspector - Firecrawl 开源的快速 PDF 分类与抽取工具
+GitHub 链接：https://github.com/firecrawl/pdf-inspector
+3、项目名称：AirLLM - 低显存运行大模型的推理工具
+GitHub 链接：https://github.com/lyogavin/airllm
+4、项目名称：reverse-skill - 面向逆向和安全研究的 Skill 路由包
+GitHub 链接：https://github.com/zhaoxuya520/reverse-skill
+5、项目名称：TencentDB-Agent-Memory - 腾讯云开源的团队级 Agent 记忆系统
+GitHub 链接：https://github.com/TencentCloud/TencentDB-Agent-Memory]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=yEQfbuFT3B0
+1、项目名称：MiniMax-H3 - MiniMax 开源的全模态音视频生成模型
+HuggingFace 链接：https://github.com/MiniMax-AI/MiniMax-H3
+2、项目名称：pdf-inspector - Firecrawl 开源的快速 PDF 分类与抽取工具
+GitHub 链接：https://github.com/firecrawl/pdf-inspector
+3、项目名称：AirLLM - 低显存运行大模型的推理工具
+GitHub 链接：https://github.com/lyogavin/airllm
+4、项目名称：reverse-skill - 面向逆向和安全研究的 Skill 路由包
+GitHub 链接：https://github.com/zhaoxuya520/reverse-skill
+5、项目名称：TencentDB-Agent-Memory - 腾讯云开源的团队级 Agent 记忆系统
+GitHub 链接：https://github.com/TencentCloud/TencentDB-Agent-Memory</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/yEQfbuFT3B0/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260808-yEQfbuFT3B0.mp3" type="audio/mpeg" length="500" />
+      <itunes:duration>500</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260808-yEQfbuFT3B0.mp3</guid>
+      <pubDate>2026-08-08T05:40:06.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[7.25]「Github一周热点124期」Kimi K3、AI网关、开源部署平台、反AI味设计Skill和人与Agent 协作工作台]]></title>
+      <itunes:title><![CDATA[7.25]「Github一周热点124期」Kimi K3、AI网关、开源部署平台、反AI味设计Skill和人与Agent 协作工作台]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=g2k5a4FvBS8
+1、项目名称：Kimi k3 - Kimi 最新旗舰模型
+GitHub 链接：https://github.com/MoonshotAI/kimi-code
+2、项目名称：OmniRoute - 免费 AI 网关与多模型路由代理
+GitHub 链接：https://github.com/diegosouzapw/OmniRoute
+3、项目名称：Openship - 开源自托管部署平台
+GitHub 链接：https://github.com/oblien/openship
+4、项目名称：Hallmark - 反 AI 味设计 Skill
+GitHub 链接：https://github.com/Nutlope/hallmark
+5、项目名称：Buzz - 人与 AI Agent 协作工作台
+GitHub 链接：https://github.com/block/buzz]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=g2k5a4FvBS8
+1、项目名称：Kimi k3 - Kimi 最新旗舰模型
+GitHub 链接：https://github.com/MoonshotAI/kimi-code
+2、项目名称：OmniRoute - 免费 AI 网关与多模型路由代理
+GitHub 链接：https://github.com/diegosouzapw/OmniRoute
+3、项目名称：Openship - 开源自托管部署平台
+GitHub 链接：https://github.com/oblien/openship
+4、项目名称：Hallmark - 反 AI 味设计 Skill
+GitHub 链接：https://github.com/Nutlope/hallmark
+5、项目名称：Buzz - 人与 AI Agent 协作工作台
+GitHub 链接：https://github.com/block/buzz]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=g2k5a4FvBS8
+1、项目名称：Kimi k3 - Kimi 最新旗舰模型
+GitHub 链接：https://github.com/MoonshotAI/kimi-code
+2、项目名称：OmniRoute - 免费 AI 网关与多模型路由代理
+GitHub 链接：https://github.com/diegosouzapw/OmniRoute
+3、项目名称：Openship - 开源自托管部署平台
+GitHub 链接：https://github.com/oblien/openship
+4、项目名称：Hallmark - 反 AI 味设计 Skill
+GitHub 链接：https://github.com/Nutlope/hallmark
+5、项目名称：Buzz - 人与 AI Agent 协作工作台
+GitHub 链接：https://github.com/block/buzz</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/g2k5a4FvBS8/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260725-g2k5a4FvBS8.mp3" type="audio/mpeg" length="521" />
+      <itunes:duration>521</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260725-g2k5a4FvBS8.mp3</guid>
+      <pubDate>2026-07-25T04:01:16.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[7.11]「Github一周热点122期」AI求职助手、Photoshop版GIMP、Agent省Token插件、本地会议助手和Office文档CLI]]></title>
+      <itunes:title><![CDATA[7.11]「Github一周热点122期」AI求职助手、Photoshop版GIMP、Agent省Token插件、本地会议助手和Office文档CLI]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=1Yw0CEJnnS4
+1、项目名称：ai-job-search - 基于 Claude Code 的 AI 求职工作流
+GitHub 链接：https://github.com/MadsLorentzen/ai-job-search
+2、项目名称：PhotoGIMP - 把 GIMP 改造成 Photoshop 风格的补丁
+GitHub 链接：https://github.com/Diolinux/PhotoGIMP
+3、项目名称：caveman - 让 AI Agent 少说废话的 skill/plugin
+GitHub 链接：https://github.com/JuliusBrussee/caveman
+4、项目名称：Meetily - 本地优先的 AI 会议助手
+GitHub 链接：https://github.com/Zackriya-Solutions/meetily
+5、项目名称：OfficeCLI - 给 AI Agent 用的 Office 文档命令行工具
+GitHub 链接：https://github.com/iOfficeAI/OfficeCLI]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=1Yw0CEJnnS4
+1、项目名称：ai-job-search - 基于 Claude Code 的 AI 求职工作流
+GitHub 链接：https://github.com/MadsLorentzen/ai-job-search
+2、项目名称：PhotoGIMP - 把 GIMP 改造成 Photoshop 风格的补丁
+GitHub 链接：https://github.com/Diolinux/PhotoGIMP
+3、项目名称：caveman - 让 AI Agent 少说废话的 skill/plugin
+GitHub 链接：https://github.com/JuliusBrussee/caveman
+4、项目名称：Meetily - 本地优先的 AI 会议助手
+GitHub 链接：https://github.com/Zackriya-Solutions/meetily
+5、项目名称：OfficeCLI - 给 AI Agent 用的 Office 文档命令行工具
+GitHub 链接：https://github.com/iOfficeAI/OfficeCLI]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=1Yw0CEJnnS4
+1、项目名称：ai-job-search - 基于 Claude Code 的 AI 求职工作流
+GitHub 链接：https://github.com/MadsLorentzen/ai-job-search
+2、项目名称：PhotoGIMP - 把 GIMP 改造成 Photoshop 风格的补丁
+GitHub 链接：https://github.com/Diolinux/PhotoGIMP
+3、项目名称：caveman - 让 AI Agent 少说废话的 skill/plugin
+GitHub 链接：https://github.com/JuliusBrussee/caveman
+4、项目名称：Meetily - 本地优先的 AI 会议助手
+GitHub 链接：https://github.com/Zackriya-Solutions/meetily
+5、项目名称：OfficeCLI - 给 AI Agent 用的 Office 文档命令行工具
+GitHub 链接：https://github.com/iOfficeAI/OfficeCLI</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/1Yw0CEJnnS4/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260711-1Yw0CEJnnS4.mp3" type="audio/mpeg" length="549" />
+      <itunes:duration>549</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260711-1Yw0CEJnnS4.mp3</guid>
+      <pubDate>2026-07-11T05:51:46.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[7.4]「Github一周热点121期」DeepSeek推理加速框架、Google设计记忆规范、AI投研技能包、AI渗透测试和免费开发者资源清单]]></title>
+      <itunes:title><![CDATA[7.4]「Github一周热点121期」DeepSeek推理加速框架、Google设计记忆规范、AI投研技能包、AI渗透测试和免费开发者资源清单]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=7PKGa1L2nGw
+1、项目名称：DeepSpec - DeepSeek 的推理加速框架
+GitHub 链接：https://github.com/deepseek-ai/DeepSpec
+2、项目名称：DESIGN.md - 给 AI 编程 Agent 用的设计系统记忆格式
+GitHub 链接：https://github.com/google-labs-code/design.md
+3、项目名称：AI Berkshire - AI 时代的价值投资研究框架
+GitHub 链接：https://github.com/xbtlin/ai-berkshire
+4、项目名称：Strix - 开源 AI 渗透测试 Agent
+GitHub 链接：https://github.com/usestrix/strix
+5、项目名称：free-for-dev - 开发者免费服务清单
+GitHub 链接：https://github.com/ripienaar/free-for-dev]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=7PKGa1L2nGw
+1、项目名称：DeepSpec - DeepSeek 的推理加速框架
+GitHub 链接：https://github.com/deepseek-ai/DeepSpec
+2、项目名称：DESIGN.md - 给 AI 编程 Agent 用的设计系统记忆格式
+GitHub 链接：https://github.com/google-labs-code/design.md
+3、项目名称：AI Berkshire - AI 时代的价值投资研究框架
+GitHub 链接：https://github.com/xbtlin/ai-berkshire
+4、项目名称：Strix - 开源 AI 渗透测试 Agent
+GitHub 链接：https://github.com/usestrix/strix
+5、项目名称：free-for-dev - 开发者免费服务清单
+GitHub 链接：https://github.com/ripienaar/free-for-dev]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=7PKGa1L2nGw
+1、项目名称：DeepSpec - DeepSeek 的推理加速框架
+GitHub 链接：https://github.com/deepseek-ai/DeepSpec
+2、项目名称：DESIGN.md - 给 AI 编程 Agent 用的设计系统记忆格式
+GitHub 链接：https://github.com/google-labs-code/design.md
+3、项目名称：AI Berkshire - AI 时代的价值投资研究框架
+GitHub 链接：https://github.com/xbtlin/ai-berkshire
+4、项目名称：Strix - 开源 AI 渗透测试 Agent
+GitHub 链接：https://github.com/usestrix/strix
+5、项目名称：free-for-dev - 开发者免费服务清单
+GitHub 链接：https://github.com/ripienaar/free-for-dev</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/7PKGa1L2nGw/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260704-7PKGa1L2nGw.mp3" type="audio/mpeg" length="521" />
+      <itunes:duration>521</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260704-7PKGa1L2nGw.mp3</guid>
+      <pubDate>2026-07-04T06:19:33.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[6.27]「Github一周热点120期」Agent视频生产系统、用户名情报搜索工具、Agent联网冲浪工具、代码库记忆MCP和开源剪辑工具]]></title>
+      <itunes:title><![CDATA[6.27]「Github一周热点120期」Agent视频生产系统、用户名情报搜索工具、Agent联网冲浪工具、代码库记忆MCP和开源剪辑工具]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=ENzar8HIf1g
+1、项目名称：OpenMontage – Agent 视频生产系统
+GitHub 链接：https://github.com/calesthio/OpenMontage
+2、项目名称：Maigret – 用户名情报搜索工具
+GitHub 链接：https://github.com/soxoj/maigret
+3、项目名称：Agent-Reach – 给 Agent 一键装上互联网能力
+GitHub 链接：https://github.com/Panniantong/Agent-Reach
+4、项目名称：codebase-memory-mcp – 代码库记忆 MCP
+GitHub 链接：https://github.com/DeusData/codebase-memory-mcp
+5、项目名称：OpenCut – 开源剪辑工具
+GitHub 链接：https://github.com/OpenCut-app/OpenCut
+
+120期分享内容：
+我用夸克网盘给你分享了「一周热点120期」，链接：https://pan.quark.cn/s/917650bbd66f]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=ENzar8HIf1g
+1、项目名称：OpenMontage – Agent 视频生产系统
+GitHub 链接：https://github.com/calesthio/OpenMontage
+2、项目名称：Maigret – 用户名情报搜索工具
+GitHub 链接：https://github.com/soxoj/maigret
+3、项目名称：Agent-Reach – 给 Agent 一键装上互联网能力
+GitHub 链接：https://github.com/Panniantong/Agent-Reach
+4、项目名称：codebase-memory-mcp – 代码库记忆 MCP
+GitHub 链接：https://github.com/DeusData/codebase-memory-mcp
+5、项目名称：OpenCut – 开源剪辑工具
+GitHub 链接：https://github.com/OpenCut-app/OpenCut
+
+120期分享内容：
+我用夸克网盘给你分享了「一周热点120期」，链接：https://pan.quark.cn/s/917650bbd66f]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=ENzar8HIf1g
+1、项目名称：OpenMontage – Agent 视频生产系统
+GitHub 链接：https://github.com/calesthio/OpenMontage
+2、项目名称：Maigret – 用户名情报搜索工具
+GitHub 链接：https://github.com/soxoj/maigret
+3、项目名称：Agent-Reach – 给 Agent 一键装上互联网能力
+GitHub 链接：https://github.com/Panniantong/Agent-Reach
+4、项目名称：codebase-memory-mcp – 代码库记忆 MCP
+GitHub 链接：https://github.com/DeusData/codebase-memory-mcp
+5、项目名称：OpenCut – 开源剪辑工具
+GitHub 链接：https://github.com/OpenCut-app/OpenCut
+
+120期分享内容：
+我用夸克网盘给你分享了「一周热点120期」，链接：https://pan.quark.cn/s/917650bbd66f</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/ENzar8HIf1g/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260627-ENzar8HIf1g.mp3" type="audio/mpeg" length="496" />
+      <itunes:duration>496</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260627-ENzar8HIf1g.mp3</guid>
+      <pubDate>2026-06-27T05:54:10.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[6.20]「Github一周热点119期」生产级Agent技能包、苹果容器工具、NVIDIA物理AI世界模型、开源客服平台和全球公开IPTV播放列表]]></title>
+      <itunes:title><![CDATA[6.20]「Github一周热点119期」生产级Agent技能包、苹果容器工具、NVIDIA物理AI世界模型、开源客服平台和全球公开IPTV播放列表]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=Znn0gU6FBh0
+1、项目名称：agent-skills – 生产级工程 Agent 技能包
+GitHub 链接：https://github.com/addyosmani/agent-skills
+2、项目名称：container – 苹果官方容器工具
+GitHub 链接：https://github.com/apple/container
+3、项目名称：cosmos – NVIDIA 物理AI世界模型平台
+GitHub 链接：https://github.com/NVIDIA/cosmos
+4、项目名称：Chatwoot – 开源客服平台
+GitHub 链接：https://github.com/chatwoot/chatwoot
+5、项目名称：IPTV – 全球公开 IPTV 播放列表
+GitHub 链接：https://github.com/iptv-org/iptv
+
+119期分享内容：
+我用夸克网盘给你分享了「一周热点119期」，链接：https://pan.quark.cn/s/64cf5790d959]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=Znn0gU6FBh0
+1、项目名称：agent-skills – 生产级工程 Agent 技能包
+GitHub 链接：https://github.com/addyosmani/agent-skills
+2、项目名称：container – 苹果官方容器工具
+GitHub 链接：https://github.com/apple/container
+3、项目名称：cosmos – NVIDIA 物理AI世界模型平台
+GitHub 链接：https://github.com/NVIDIA/cosmos
+4、项目名称：Chatwoot – 开源客服平台
+GitHub 链接：https://github.com/chatwoot/chatwoot
+5、项目名称：IPTV – 全球公开 IPTV 播放列表
+GitHub 链接：https://github.com/iptv-org/iptv
+
+119期分享内容：
+我用夸克网盘给你分享了「一周热点119期」，链接：https://pan.quark.cn/s/64cf5790d959]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=Znn0gU6FBh0
+1、项目名称：agent-skills – 生产级工程 Agent 技能包
+GitHub 链接：https://github.com/addyosmani/agent-skills
+2、项目名称：container – 苹果官方容器工具
+GitHub 链接：https://github.com/apple/container
+3、项目名称：cosmos – NVIDIA 物理AI世界模型平台
+GitHub 链接：https://github.com/NVIDIA/cosmos
+4、项目名称：Chatwoot – 开源客服平台
+GitHub 链接：https://github.com/chatwoot/chatwoot
+5、项目名称：IPTV – 全球公开 IPTV 播放列表
+GitHub 链接：https://github.com/iptv-org/iptv
+
+119期分享内容：
+我用夸克网盘给你分享了「一周热点119期」，链接：https://pan.quark.cn/s/64cf5790d959</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/Znn0gU6FBh0/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260620-Znn0gU6FBh0.mp3" type="audio/mpeg" length="491" />
+      <itunes:duration>491</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260620-Znn0gU6FBh0.mp3</guid>
+      <pubDate>2026-06-20T05:01:06.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[6.13]「Github一周热点118期」自托管AI工作空间、AI求职系统、Markdown知识库应用、基于文件的持久规划SKILL以及大模型解禁工具]]></title>
+      <itunes:title><![CDATA[6.13]「Github一周热点118期」自托管AI工作空间、AI求职系统、Markdown知识库应用、基于文件的持久规划SKILL以及大模型解禁工具]]></itunes:title>
+      <itunes:author><![CDATA[IT咖啡馆]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=6OTbcHwjxFc
+1、项目名称：Odysseus – 自托管AI工作空间
+GitHub 链接：https://github.com/pewdiepie-archdaemon/odysseus
+2、项目名称：Career-Ops – AI驱动的求职系统
+GitHub 链接：https://github.com/santifer/career-ops
+3、项目名称：Tolaria – Markdown 知识库桌面应用
+GitHub 链接：https://github.com/refactoringhq/tolaria
+4、项目名称：Planning-with-Files – AI Agent 持久化规划工具
+GitHub 链接：https://github.com/OthmanAdi/planning-with-files
+5、项目名称：Heretic – 大模型自动解禁工具
+GitHub 链接：https://github.com/p-e-w/heretic]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=6OTbcHwjxFc
+1、项目名称：Odysseus – 自托管AI工作空间
+GitHub 链接：https://github.com/pewdiepie-archdaemon/odysseus
+2、项目名称：Career-Ops – AI驱动的求职系统
+GitHub 链接：https://github.com/santifer/career-ops
+3、项目名称：Tolaria – Markdown 知识库桌面应用
+GitHub 链接：https://github.com/refactoringhq/tolaria
+4、项目名称：Planning-with-Files – AI Agent 持久化规划工具
+GitHub 链接：https://github.com/OthmanAdi/planning-with-files
+5、项目名称：Heretic – 大模型自动解禁工具
+GitHub 链接：https://github.com/p-e-w/heretic]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=6OTbcHwjxFc
+1、项目名称：Odysseus – 自托管AI工作空间
+GitHub 链接：https://github.com/pewdiepie-archdaemon/odysseus
+2、项目名称：Career-Ops – AI驱动的求职系统
+GitHub 链接：https://github.com/santifer/career-ops
+3、项目名称：Tolaria – Markdown 知识库桌面应用
+GitHub 链接：https://github.com/refactoringhq/tolaria
+4、项目名称：Planning-with-Files – AI Agent 持久化规划工具
+GitHub 链接：https://github.com/OthmanAdi/planning-with-files
+5、项目名称：Heretic – 大模型自动解禁工具
+GitHub 链接：https://github.com/p-e-w/heretic</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/6OTbcHwjxFc/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260613-6OTbcHwjxFc.mp3" type="audio/mpeg" length="453" />
+      <itunes:duration>453</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/it-coffee-github-www.youtube.com-3822b569e5/20260613-6OTbcHwjxFc.mp3</guid>
+      <pubDate>2026-06-13T02:00:05.000Z</pubDate>
+    </item></channel>
+</rss>
