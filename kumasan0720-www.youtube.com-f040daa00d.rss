@@ -30,6 +30,37 @@
     </itunes:owner>
     <itunes:image href="https://yt3.googleusercontent.com/5Qi-deqJ6KHfYVd7nTn5J33d3bsnxin6pebd6mJGAY9Ab6doja-T1l5BSJvPQX8SRK02vNuEu0I=s1024-b50-c-k-c0x0040F99B-no-rj"/>
 <item>
+      <title><![CDATA[10.9]不要再搞基啦！被基情搞砸的可惜動畫！]]></title>
+      <itunes:title><![CDATA[10.9]不要再搞基啦！被基情搞砸的可惜動畫！]]></itunes:title>
+      <itunes:author><![CDATA[Kuma桑]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[https://www.youtube.com/watch?v=Y3NVb1-cIBE
+畫面很棒！人設很棒！沒了！
+
+#kuma桑 
+#動漫
+#新番]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[https://www.youtube.com/watch?v=Y3NVb1-cIBE
+畫面很棒！人設很棒！沒了！
+
+#kuma桑 
+#動漫
+#新番]]>
+      </description>
+      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=Y3NVb1-cIBE
+畫面很棒！人設很棒！沒了！
+
+#kuma桑 
+#動漫
+#新番</pre>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/Y3NVb1-cIBE/hqdefault.jpg"/>
+      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20261009-Y3NVb1-cIBE.mp3" type="audio/mpeg" length="592" />
+      <itunes:duration>592</itunes:duration>
+      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20261009-Y3NVb1-cIBE.mp3</guid>
+      <pubDate>2026-10-09T13:03:36.000Z</pubDate>
+    </item><item>
       <title><![CDATA[10.6]他是今年最恐怖的十月新番！]]></title>
       <itunes:title><![CDATA[10.6]他是今年最恐怖的十月新番！]]></itunes:title>
       <itunes:author><![CDATA[Kuma桑]]></itunes:author>
@@ -317,39 +348,5 @@
       <itunes:duration>623</itunes:duration>
       <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20260911-4JF0_qT3b-E.mp3</guid>
       <pubDate>2026-09-11T13:55:32.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[9.8]非常感動！這是獻給喜歡漫畫的讀者和漫畫家們的情書！]]></title>
-      <itunes:title><![CDATA[9.8]非常感動！這是獻給喜歡漫畫的讀者和漫畫家們的情書！]]></itunes:title>
-      <itunes:author><![CDATA[Kuma桑]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[https://www.youtube.com/watch?v=gYApLO-_xDs
-雖然我不會畫畫和畫漫畫
-但我真的有被每一話的故事給感動
-
-#kuma桑
-#動漫
-#新番]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[https://www.youtube.com/watch?v=gYApLO-_xDs
-雖然我不會畫畫和畫漫畫
-但我真的有被每一話的故事給感動
-
-#kuma桑
-#動漫
-#新番]]>
-      </description>
-      <content:encoded><![CDATA[<pre>https://www.youtube.com/watch?v=gYApLO-_xDs
-雖然我不會畫畫和畫漫畫
-但我真的有被每一話的故事給感動
-
-#kuma桑
-#動漫
-#新番</pre>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/gYApLO-_xDs/hqdefault.jpg"/>
-      <enclosure url="https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20260908-gYApLO-_xDs.mp3" type="audio/mpeg" length="615" />
-      <itunes:duration>615</itunes:duration>
-      <guid isPermaLink="false">https://democwise2016.github.io/action-UT-Podcast-Weekly-202408/kumasan0720-www.youtube.com-f040daa00d/20260908-gYApLO-_xDs.mp3</guid>
-      <pubDate>2026-09-08T13:26:02.000Z</pubDate>
     </item></channel>
 </rss>
